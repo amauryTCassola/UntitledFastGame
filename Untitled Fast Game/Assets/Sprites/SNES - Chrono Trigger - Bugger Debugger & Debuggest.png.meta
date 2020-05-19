@@ -1,0 +1,848 @@
+fileFormatVersion: 2
+guid: 0eac4abbc7e369141be42f1157b7b0ab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8074706009534317960
+    second: SNES - Chrono Trigger - Bugger Debugger & Debuggest_0
+  - first:
+      213: -3907314469914758486
+    second: SNES - Chrono Trigger - Bugger Debugger & Debuggest_1
+  - first:
+      213: -6778430227187335297
+    second: SNES - Chrono Trigger - Bugger Debugger & Debuggest_2
+  - first:
+      213: 870175194101035569
+    second: SNES - Chrono Trigger - Bugger Debugger & Debuggest_3
+  - first:
+      213: 5377934180507598255
+    second: SNES - Chrono Trigger - Bugger Debugger & Debuggest_4
+  - first:
+      213: 2364953425095482368
+    second: SNES - Chrono Trigger - Bugger Debugger & Debuggest_5
+  - first:
+      213: -8408754133920826539
+    second: SNES - Chrono Trigger - Bugger Debugger & Debuggest_6
+  - first:
+      213: -5977968202980454688
+    second: SNES - Chrono Trigger - Bugger Debugger & Debuggest_7
+  - first:
+      213: 5953898545822121569
+    second: SNES - Chrono Trigger - Bugger Debugger & Debuggest_8
+  - first:
+      213: 57370259492180746
+    second: SNES - Chrono Trigger - Bugger Debugger & Debuggest_9
+  - first:
+      213: -2460722946752765953
+    second: SNES - Chrono Trigger - Bugger Debugger & Debuggest_10
+  - first:
+      213: 2443166577793626203
+    second: SNES - Chrono Trigger - Bugger Debugger & Debuggest_11
+  - first:
+      213: -2908995309637672298
+    second: SNES - Chrono Trigger - Bugger Debugger & Debuggest_12
+  - first:
+      213: 7928433464108502922
+    second: SNES - Chrono Trigger - Bugger Debugger & Debuggest_13
+  - first:
+      213: -8360234051323437102
+    second: SNES - Chrono Trigger - Bugger Debugger & Debuggest_14
+  - first:
+      213: 3859572627270041456
+    second: SNES - Chrono Trigger - Bugger Debugger & Debuggest_15
+  - first:
+      213: 4241809572247018478
+    second: SNES - Chrono Trigger - Bugger Debugger & Debuggest_16
+  - first:
+      213: -6577192805805826954
+    second: SNES - Chrono Trigger - Bugger Debugger & Debuggest_17
+  - first:
+      213: 6111351233531955984
+    second: SNES - Chrono Trigger - Bugger Debugger & Debuggest_18
+  - first:
+      213: 3650496380012950124
+    second: SNES - Chrono Trigger - Bugger Debugger & Debuggest_19
+  - first:
+      213: -6930103279194220
+    second: SNES - Chrono Trigger - Bugger Debugger & Debuggest_20
+  - first:
+      213: 6694120452748181935
+    second: SNES - Chrono Trigger - Bugger Debugger & Debuggest_21
+  - first:
+      213: 3569370794134143258
+    second: SNES - Chrono Trigger - Bugger Debugger & Debuggest_22
+  - first:
+      213: -4918781981095354363
+    second: SNES - Chrono Trigger - Bugger Debugger & Debuggest_23
+  - first:
+      213: 8264699123934740018
+    second: SNES - Chrono Trigger - Bugger Debugger & Debuggest_24
+  - first:
+      213: -3665798385253282126
+    second: SNES - Chrono Trigger - Bugger Debugger & Debuggest_25
+  - first:
+      213: -1222909895375439180
+    second: SNES - Chrono Trigger - Bugger Debugger & Debuggest_26
+  - first:
+      213: 877367332798694200
+    second: SNES - Chrono Trigger - Bugger Debugger & Debuggest_27
+  - first:
+      213: -8266801480578369149
+    second: SNES - Chrono Trigger - Bugger Debugger & Debuggest_28
+  - first:
+      213: 2134846677954337684
+    second: SNES - Chrono Trigger - Bugger Debugger & Debuggest_29
+  - first:
+      213: -141718084195824827
+    second: SNES - Chrono Trigger - Bugger Debugger & Debuggest_30
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Bugger Debugger & Debuggest_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 445
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87abefb7aa1e0ff80800000000000000
+      internalID: -8074706009534317960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Bugger Debugger & Debuggest_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 444
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2bcf2013e66c9c0800000000000000
+      internalID: -3907314469914758486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Bugger Debugger & Debuggest_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 404
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f7abd3f9d2ee1a0800000000000000
+      internalID: -6778430227187335297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Bugger Debugger & Debuggest_3
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 404
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132bfb88abb731c00800000000000000
+      internalID: 870175194101035569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Bugger Debugger & Debuggest_4
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 404
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad3696c4a242aa40800000000000000
+      internalID: 5377934180507598255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Bugger Debugger & Debuggest_5
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 422
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00cd82d2c9002d020800000000000000
+      internalID: 2364953425095482368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Bugger Debugger & Debuggest_6
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 422
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b3d0caaaa1e4b80800000000000000
+      internalID: -8408754133920826539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Bugger Debugger & Debuggest_7
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 353
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee05ce879df90da0800000000000000
+      internalID: -5977968202980454688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Bugger Debugger & Debuggest_8
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 353
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e317cae2f70a250800000000000000
+      internalID: 5953898545822121569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Bugger Debugger & Debuggest_9
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 353
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0314b172f1dbc000800000000000000
+      internalID: 57370259492180746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Bugger Debugger & Debuggest_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 308
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff16247481c9ddd0800000000000000
+      internalID: -2460722946752765953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Bugger Debugger & Debuggest_11
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 307
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50fe7cde0fd7e120800000000000000
+      internalID: 2443166577793626203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Bugger Debugger & Debuggest_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 267
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692e4cbad2c21a7d0800000000000000
+      internalID: -2908995309637672298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Bugger Debugger & Debuggest_13
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 267
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8fc18d9a34770e60800000000000000
+      internalID: 7928433464108502922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Bugger Debugger & Debuggest_14
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 267
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dfddbbbc6b7afb80800000000000000
+      internalID: -8360234051323437102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Bugger Debugger & Debuggest_15
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 285
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f70490bd4ff8530800000000000000
+      internalID: 3859572627270041456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Bugger Debugger & Debuggest_16
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 285
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb92a6f45fedda30800000000000000
+      internalID: 4241809572247018478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Bugger Debugger & Debuggest_17
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 216
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c50b69dfd19b4a0800000000000000
+      internalID: -6577192805805826954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Bugger Debugger & Debuggest_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 216
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b415c4191efc450800000000000000
+      internalID: 6111351233531955984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Bugger Debugger & Debuggest_19
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 216
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c627580dd1b29a230800000000000000
+      internalID: 3650496380012950124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Bugger Debugger & Debuggest_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 174
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f69c79b1167eff0800000000000000
+      internalID: -6930103279194220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Bugger Debugger & Debuggest_21
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 173
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa18bb5b51b46ec50800000000000000
+      internalID: 6694120452748181935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Bugger Debugger & Debuggest_22
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 133
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11050073d3f88130800000000000000
+      internalID: 3569370794134143258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Bugger Debugger & Debuggest_23
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 133
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500283959d9fcbbb0800000000000000
+      internalID: -4918781981095354363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Bugger Debugger & Debuggest_24
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 133
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ebc91a01c12b270800000000000000
+      internalID: 8264699123934740018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Bugger Debugger & Debuggest_25
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 151
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be07c47ac7702dc0800000000000000
+      internalID: -3665798385253282126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Bugger Debugger & Debuggest_26
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 151
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba36ddede9570fe0800000000000000
+      internalID: -1222909895375439180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Bugger Debugger & Debuggest_27
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 82
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8338ff0d0f80d2c00800000000000000
+      internalID: 877367332798694200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Bugger Debugger & Debuggest_28
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 82
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389f3715adb664d80800000000000000
+      internalID: -8266801480578369149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Bugger Debugger & Debuggest_29
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 82
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b14612ebf70ad10800000000000000
+      internalID: 2134846677954337684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Bugger Debugger & Debuggest_30
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 115
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b424d3724880ef0800000000000000
+      internalID: -141718084195824827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

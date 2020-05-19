@@ -1,0 +1,728 @@
+fileFormatVersion: 2
+guid: 2c7c2bbce3f093344b0fb778325f7e11
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1791963511717832754
+    second: SNES - Chrono Trigger - Rat & Gremlin_0
+  - first:
+      213: -579900884421967068
+    second: SNES - Chrono Trigger - Rat & Gremlin_1
+  - first:
+      213: 6807671590973526769
+    second: SNES - Chrono Trigger - Rat & Gremlin_2
+  - first:
+      213: -8860397776085535035
+    second: SNES - Chrono Trigger - Rat & Gremlin_3
+  - first:
+      213: -87736598393117679
+    second: SNES - Chrono Trigger - Rat & Gremlin_4
+  - first:
+      213: 3085114719174952443
+    second: SNES - Chrono Trigger - Rat & Gremlin_5
+  - first:
+      213: 8420224841026499091
+    second: SNES - Chrono Trigger - Rat & Gremlin_6
+  - first:
+      213: 633945443339750398
+    second: SNES - Chrono Trigger - Rat & Gremlin_7
+  - first:
+      213: -586577463761257855
+    second: SNES - Chrono Trigger - Rat & Gremlin_8
+  - first:
+      213: -4436835898719662941
+    second: SNES - Chrono Trigger - Rat & Gremlin_9
+  - first:
+      213: -5671921981100468306
+    second: SNES - Chrono Trigger - Rat & Gremlin_10
+  - first:
+      213: 5420892619771109822
+    second: SNES - Chrono Trigger - Rat & Gremlin_11
+  - first:
+      213: 2913417003825458199
+    second: SNES - Chrono Trigger - Rat & Gremlin_12
+  - first:
+      213: 8344326515646762793
+    second: SNES - Chrono Trigger - Rat & Gremlin_13
+  - first:
+      213: -6893979982091484781
+    second: SNES - Chrono Trigger - Rat & Gremlin_14
+  - first:
+      213: -4311563676021941500
+    second: SNES - Chrono Trigger - Rat & Gremlin_15
+  - first:
+      213: 2658365748700608294
+    second: SNES - Chrono Trigger - Rat & Gremlin_16
+  - first:
+      213: -4419557423321571261
+    second: SNES - Chrono Trigger - Rat & Gremlin_17
+  - first:
+      213: 7778094905910440836
+    second: SNES - Chrono Trigger - Rat & Gremlin_18
+  - first:
+      213: 8808700491649439884
+    second: SNES - Chrono Trigger - Rat & Gremlin_19
+  - first:
+      213: -2670203627868306852
+    second: SNES - Chrono Trigger - Rat & Gremlin_20
+  - first:
+      213: -4882370682184661591
+    second: SNES - Chrono Trigger - Rat & Gremlin_21
+  - first:
+      213: 7448872586006236503
+    second: SNES - Chrono Trigger - Rat & Gremlin_22
+  - first:
+      213: -6253982952981268089
+    second: SNES - Chrono Trigger - Rat & Gremlin_23
+  - first:
+      213: 378771122172213778
+    second: SNES - Chrono Trigger - Rat & Gremlin_24
+  - first:
+      213: -3359542392171513050
+    second: SNES - Chrono Trigger - Rat & Gremlin_25
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Rat & Gremlin_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 210
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2382766d1555ed810800000000000000
+      internalID: 1791963511717832754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Rat & Gremlin_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 211
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4230813d737c3f7f0800000000000000
+      internalID: -579900884421967068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Rat & Gremlin_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 210
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2de7f4e35b97e50800000000000000
+      internalID: 6807671590973526769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Rat & Gremlin_3
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 209
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6b2c3ca2b890580800000000000000
+      internalID: -8860397776085535035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Rat & Gremlin_4
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 210
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1142af2570c48cef0800000000000000
+      internalID: -87736598393117679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Rat & Gremlin_5
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 209
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf580cfcd7780da20800000000000000
+      internalID: 3085114719174952443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Rat & Gremlin_6
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 173
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312fd4271e5aad470800000000000000
+      internalID: 8420224841026499091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Rat & Gremlin_7
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 173
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb4e3d950a3cc800800000000000000
+      internalID: 633945443339750398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Rat & Gremlin_8
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 173
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ab24f87ee0cd7f0800000000000000
+      internalID: -586577463761257855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Rat & Gremlin_9
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 172
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac0d1ae1413d62c0800000000000000
+      internalID: -4436835898719662941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Rat & Gremlin_10
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 172
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7d6c262094941b0800000000000000
+      internalID: -5671921981100468306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Rat & Gremlin_11
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 172
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb16ef6dd11ea3b40800000000000000
+      internalID: 5420892619771109822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Rat & Gremlin_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 135
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c699b34598e6820800000000000000
+      internalID: 2913417003825458199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Rat & Gremlin_13
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 135
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f8ffe71c00dc370800000000000000
+      internalID: 8344326515646762793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Rat & Gremlin_14
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 135
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39188ce6bb9a350a0800000000000000
+      internalID: -6893979982091484781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Rat & Gremlin_15
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 134
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b1c382eaf3a24c0800000000000000
+      internalID: -4311563676021941500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Rat & Gremlin_16
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 134
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6277d56509964e420800000000000000
+      internalID: 2658365748700608294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Rat & Gremlin_17
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 134
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3402a7670f39aa2c0800000000000000
+      internalID: -4419557423321571261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Rat & Gremlin_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 100
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48331185b1851fb60800000000000000
+      internalID: 7778094905910440836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Rat & Gremlin_19
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 100
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88d2993d6ace3a70800000000000000
+      internalID: 8808700491649439884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Rat & Gremlin_20
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 100
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5243f2a2f781fad0800000000000000
+      internalID: -2670203627868306852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Rat & Gremlin_21
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 99
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a50a928bb55e3cb0800000000000000
+      internalID: -4882370682184661591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Rat & Gremlin_22
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 99
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d0c02b626bf5760800000000000000
+      internalID: 7448872586006236503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Rat & Gremlin_23
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 99
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789f338a3a36539a0800000000000000
+      internalID: -6253982952981268089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Rat & Gremlin_24
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 51
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a304c245aa14500800000000000000
+      internalID: 378771122172213778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Rat & Gremlin_25
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 50
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b30c27ef18061d0800000000000000
+      internalID: -3359542392171513050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
