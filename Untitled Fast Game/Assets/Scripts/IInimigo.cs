@@ -1,6 +1,5 @@
 ﻿public interface IInimigo
 {
-
     bool PassivaAtiva();
 
     ResultadoDeAtaque TesteAtaque();

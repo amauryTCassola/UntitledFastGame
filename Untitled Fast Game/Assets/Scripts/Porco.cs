@@ -5,13 +5,24 @@ using UnityEngine;
 public class Porco : MonoBehaviour, IInimigo
 {
     public int vida;
-
+   
+    public Vector2 PegaPosicao()
+    {
+        return transform.position;
+    }
+    
     public bool PassivaAtiva(){
         return false; //o porco nao tem passiva
     }
 
     public ResultadoDeAtaque TesteAtaque(){
-        return ResultadoDeAtaque.ATAQUE_SUCESSO; //o player sempre consegue atacar porcos
+        if (vida <= 0)
+        {
+            return ResultadoDeAtaque.ATAQUE_FALHA;
+        }
+        else {
+            return ResultadoDeAtaque.ATAQUE_SUCESSO; //o player sempre consegue atacar porcos
+            }
     }
 
     public void LevaAtaque(int dano){
@@ -29,4 +40,5 @@ public class Porco : MonoBehaviour, IInimigo
         if(!EstaMorto())
         Debug.Log("Porco: oinc oinc novo turno");
     }
+
 }

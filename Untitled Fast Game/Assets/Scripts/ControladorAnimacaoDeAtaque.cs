@@ -14,11 +14,11 @@ public static class ControladorAnimacaoDeAtaque{
         
         if(resultadoAtaque == ResultadoDeAtaque.ATAQUE_SUCESSO){
             Debug.Log("Executando animacao de ataque que deu certo... :)");
-            await Task.Delay(3000);
+            await Task.Delay(1000);
         }
         else{
             Debug.Log("Executando animacao de ataque que deu errado... :(");
-            await Task.Delay(3000);
+            await Task.Delay(1000);
         }
     }
 }

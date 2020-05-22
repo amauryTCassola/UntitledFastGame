@@ -6,7 +6,8 @@ using UnityEngine.Events;   /*Para usar UnityEvent*/
 using System.Linq;  /*Para usar .Distinct()*/
 using System.Threading.Tasks;
 
-public class ProcessadorDeAtaque : MonoBehaviour{
+public class ProcessadorDeAtaque : MonoBehaviour
+{
 
     /*Dada uma lista de inimigos representando o movimento de ataque e o player que está atacando,
     itera por essa lista, a cada turno decidindo se o ataque foi com sucesso ou não e fazendo
@@ -17,7 +18,8 @@ public class ProcessadorDeAtaque : MonoBehaviour{
         
         List<IInimigo> listaInimigos = listaAtaque.Distinct().ToList(); /*Lista de inimigos sendo atacados sem duplicatas*/
         UnityEvent eventoNovoTurno = new UnityEvent(); /*Evento que é ativado cada vez que um turno termina*/
-        ResultadoDeAtaque resultadoAtaqueAtual; /*o resultado de um ataque pontual contra um inimigo, usado para decidir qual animação deve ser reproduzida*/
+        ResultadoDeAtaque resultadoAtaqueAtual; /*o resultado de um ataque pontual contra um inimigo, 
+        usado para decidir qual animação deve ser reproduzida*/
         bool estaoTodosMortos = true; /*Resultado da checagem final do ataque*/
 
         /*Vincula todos os callbacks de atualização de turno*/
@@ -41,15 +43,15 @@ public class ProcessadorDeAtaque : MonoBehaviour{
 
             /*tenta atacar o inimigo atual*/
             resultadoAtaqueAtual = inimigoAtaque.TesteAtaque();
-
             /*passa o resultado do ataque pro script de animação*/
-           await ControladorAnimacaoDeAtaque.ExecutaAnimacaoAtaque(player, inimigoAtaque, resultadoAtaqueAtual);
+            await ControladorAnimacaoDeAtaque.ExecutaAnimacaoAtaque(player, inimigoAtaque, resultadoAtaqueAtual);
 
             /*com o resultado do ataque, decide se deve continuar ou terminar*/
-            if(resultadoAtaqueAtual != ResultadoDeAtaque.ATAQUE_SUCESSO){
+            if (resultadoAtaqueAtual != ResultadoDeAtaque.ATAQUE_SUCESSO){
                 /*se falhou, para o loop e retorna false*/
                 return false;
             } else {
+                
                 /*se deu certo, notifica o inimigo sendo atacado*/
                 inimigoAtaque.LevaAtaque(player.Dano());
                 /*chama os atualizaTurno de todos (através do evento) e continua*/

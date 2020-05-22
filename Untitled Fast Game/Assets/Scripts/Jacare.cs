@@ -5,6 +5,7 @@ using UnityEngine;
 public class Jacare : MonoBehaviour, IInimigo
 {
     public int vida = 2;
+    public bool levouAtaque = false;
     public bool bocaAberta = false;
     int turnosAteFecharBoca;
 
@@ -27,10 +28,7 @@ public class Jacare : MonoBehaviour, IInimigo
             /*Animação de morte aqui*/
             Destroy(gameObject);
         else{
-            this.bocaAberta = true;
-            this.turnosAteFecharBoca = 2;
-            /*Animação de abrir a boca*/
-            Debug.Log("Jacare: Boca aberta :V");
+            this.levouAtaque = true;
         }
     }
 
@@ -41,10 +39,18 @@ public class Jacare : MonoBehaviour, IInimigo
     public void AtualizaTurno(){
         if(bocaAberta){
             this.turnosAteFecharBoca--;
-            if(this.turnosAteFecharBoca <= 0){
+            if (this.turnosAteFecharBoca <= 0){
                 Debug.Log("Jacare: Boca fechada :|");
                 bocaAberta = false;
             }
+        }
+        else if(levouAtaque)
+        {
+            this.bocaAberta = true;
+            this.levouAtaque = false;
+            this.turnosAteFecharBoca = 2;
+            /*Animação de abrir a boca*/
+            Debug.Log("Jacare: Boca aberta :V");
         }
     }
 }
