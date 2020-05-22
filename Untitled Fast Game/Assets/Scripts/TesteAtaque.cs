@@ -6,7 +6,7 @@ using UnityEngine;
 public class TesteAtaque : MonoBehaviour
 {
     //cria um array pra colocar os inimigos na tela(acho q deviamos transformar em lista depois)
-    GameObject[] inimigos;
+    public GameObject[] inimigos;
     //cria a lista onde os inimigos vão ser guardados
     List<IInimigo> listaInimigos;
     //o controlador do player, pra poder  chamar no update depois
@@ -79,7 +79,7 @@ public class TesteAtaque : MonoBehaviour
                 var ipi = Mathf.Abs(Mathf.Round((Mathf.Abs(posicaoInimigo.y) - Mathf.Abs(posicaoClique.y)) * 100));
 
                 //aqui ele vai pegar os floats x e y e ver se eles são menores q 5(é meio arbitrário a distancia)
-                 if (xis <= 5 && ipi <= 5)
+                 if (xis <= 2 && ipi <= 2)
                  {
                     //aqui checa se não existe nenhum inimigo na lista ainda
                     if (listaInimigos.Count == 0)

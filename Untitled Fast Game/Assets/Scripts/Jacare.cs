@@ -7,7 +7,7 @@ public class Jacare : MonoBehaviour, IInimigo
     public int vida = 2;
     public bool levouAtaque = false;
     public bool bocaAberta = false;
-    int turnosAteFecharBoca;
+    public int turnosAteFecharBoca;
 
     public bool PassivaAtiva(){
         return false; //o jacare nao tem passiva
