@@ -1,7 +1,652 @@
 fileFormatVersion: 2
 guid: 7b6ae68045952714481085a7da22ac0a
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -6937051575795837733
+    second: SNES - Chrono Trigger - Crono_0
+  - first:
+      213: 5063575459625064007
+    second: SNES - Chrono Trigger - Crono_1
+  - first:
+      213: -8310575623666683361
+    second: SNES - Chrono Trigger - Crono_2
+  - first:
+      213: -1205094298552126052
+    second: SNES - Chrono Trigger - Crono_3
+  - first:
+      213: -2327451344311537934
+    second: SNES - Chrono Trigger - Crono_4
+  - first:
+      213: 1858639467130035231
+    second: SNES - Chrono Trigger - Crono_5
+  - first:
+      213: -528090827248159428
+    second: SNES - Chrono Trigger - Crono_6
+  - first:
+      213: 3548804649679110697
+    second: SNES - Chrono Trigger - Crono_7
+  - first:
+      213: -7942027844685933724
+    second: SNES - Chrono Trigger - Crono_8
+  - first:
+      213: 5835097624315857943
+    second: SNES - Chrono Trigger - Crono_9
+  - first:
+      213: 693506654814579537
+    second: SNES - Chrono Trigger - Crono_10
+  - first:
+      213: 1100861196894689955
+    second: SNES - Chrono Trigger - Crono_11
+  - first:
+      213: 7974449518021222876
+    second: SNES - Chrono Trigger - Crono_12
+  - first:
+      213: 8973289630120308071
+    second: SNES - Chrono Trigger - Crono_13
+  - first:
+      213: -3254485041072315671
+    second: SNES - Chrono Trigger - Crono_14
+  - first:
+      213: 6683849015427465929
+    second: SNES - Chrono Trigger - Crono_15
+  - first:
+      213: 5521951469727995621
+    second: SNES - Chrono Trigger - Crono_16
+  - first:
+      213: -2979695912142732171
+    second: SNES - Chrono Trigger - Crono_17
+  - first:
+      213: -6690057999919203172
+    second: SNES - Chrono Trigger - Crono_18
+  - first:
+      213: 975492472308650702
+    second: SNES - Chrono Trigger - Crono_19
+  - first:
+      213: -8338228525393681138
+    second: SNES - Chrono Trigger - Crono_20
+  - first:
+      213: -4162217078437021112
+    second: SNES - Chrono Trigger - Crono_21
+  - first:
+      213: 4033878426982787315
+    second: SNES - Chrono Trigger - Crono_22
+  - first:
+      213: -633657147444587105
+    second: SNES - Chrono Trigger - Crono_23
+  - first:
+      213: 8664860090365118622
+    second: SNES - Chrono Trigger - Crono_24
+  - first:
+      213: 1503502141869011247
+    second: SNES - Chrono Trigger - Crono_25
+  - first:
+      213: 1234583276678875647
+    second: SNES - Chrono Trigger - Crono_26
+  - first:
+      213: 7297319515744818360
+    second: SNES - Chrono Trigger - Crono_27
+  - first:
+      213: -1892960121606824016
+    second: SNES - Chrono Trigger - Crono_28
+  - first:
+      213: -2472417043440485658
+    second: SNES - Chrono Trigger - Crono_29
+  - first:
+      213: 8806857682754425247
+    second: SNES - Chrono Trigger - Crono_30
+  - first:
+      213: -5551721438233090775
+    second: SNES - Chrono Trigger - Crono_31
+  - first:
+      213: 6272777933190182919
+    second: SNES - Chrono Trigger - Crono_32
+  - first:
+      213: -3399258600085054574
+    second: SNES - Chrono Trigger - Crono_33
+  - first:
+      213: 1940355896287183760
+    second: SNES - Chrono Trigger - Crono_34
+  - first:
+      213: -728833613059294814
+    second: SNES - Chrono Trigger - Crono_35
+  - first:
+      213: -1015529679878804907
+    second: SNES - Chrono Trigger - Crono_36
+  - first:
+      213: 499050976145538372
+    second: SNES - Chrono Trigger - Crono_37
+  - first:
+      213: 4813337436403392188
+    second: SNES - Chrono Trigger - Crono_38
+  - first:
+      213: 1569102519295773350
+    second: SNES - Chrono Trigger - Crono_39
+  - first:
+      213: -2647240825212096812
+    second: SNES - Chrono Trigger - Crono_40
+  - first:
+      213: -354199358229021448
+    second: SNES - Chrono Trigger - Crono_41
+  - first:
+      213: 5483803624721387217
+    second: SNES - Chrono Trigger - Crono_42
+  - first:
+      213: 7974290840461196089
+    second: SNES - Chrono Trigger - Crono_43
+  - first:
+      213: -7535354209672227955
+    second: SNES - Chrono Trigger - Crono_44
+  - first:
+      213: -9108133421644856949
+    second: SNES - Chrono Trigger - Crono_45
+  - first:
+      213: 1132375814609558573
+    second: SNES - Chrono Trigger - Crono_46
+  - first:
+      213: 7431463787435682421
+    second: SNES - Chrono Trigger - Crono_47
+  - first:
+      213: -5686043852262998102
+    second: SNES - Chrono Trigger - Crono_48
+  - first:
+      213: -9161548821987333617
+    second: SNES - Chrono Trigger - Crono_49
+  - first:
+      213: -4215528146048525932
+    second: SNES - Chrono Trigger - Crono_50
+  - first:
+      213: -2000374236576744552
+    second: SNES - Chrono Trigger - Crono_51
+  - first:
+      213: 2459356454924392844
+    second: SNES - Chrono Trigger - Crono_52
+  - first:
+      213: -6436376738949161246
+    second: SNES - Chrono Trigger - Crono_53
+  - first:
+      213: -3529460378794375701
+    second: SNES - Chrono Trigger - Crono_54
+  - first:
+      213: 6925731632642106910
+    second: SNES - Chrono Trigger - Crono_55
+  - first:
+      213: 2549666020591868043
+    second: SNES - Chrono Trigger - Crono_56
+  - first:
+      213: 6127049642652816389
+    second: SNES - Chrono Trigger - Crono_57
+  - first:
+      213: -4318681941187886207
+    second: SNES - Chrono Trigger - Crono_58
+  - first:
+      213: -8142143055650561313
+    second: SNES - Chrono Trigger - Crono_59
+  - first:
+      213: -8053689212858915487
+    second: SNES - Chrono Trigger - Crono_60
+  - first:
+      213: -5084776676688599326
+    second: SNES - Chrono Trigger - Crono_61
+  - first:
+      213: -715804862747343092
+    second: SNES - Chrono Trigger - Crono_62
+  - first:
+      213: 6558969947411459646
+    second: SNES - Chrono Trigger - Crono_63
+  - first:
+      213: -3861432414216953301
+    second: SNES - Chrono Trigger - Crono_64
+  - first:
+      213: -2621932772059957846
+    second: SNES - Chrono Trigger - Crono_65
+  - first:
+      213: 7298388989564133032
+    second: SNES - Chrono Trigger - Crono_66
+  - first:
+      213: -7604333515440713111
+    second: SNES - Chrono Trigger - Crono_67
+  - first:
+      213: -8799180746707276181
+    second: SNES - Chrono Trigger - Crono_68
+  - first:
+      213: -4030317047344959180
+    second: SNES - Chrono Trigger - Crono_69
+  - first:
+      213: 8521393290025959388
+    second: SNES - Chrono Trigger - Crono_70
+  - first:
+      213: 9042115631510680489
+    second: SNES - Chrono Trigger - Crono_71
+  - first:
+      213: 1994931449241332435
+    second: SNES - Chrono Trigger - Crono_72
+  - first:
+      213: 234028823653772628
+    second: SNES - Chrono Trigger - Crono_73
+  - first:
+      213: 886676749690144928
+    second: SNES - Chrono Trigger - Crono_74
+  - first:
+      213: 3181210815232948980
+    second: SNES - Chrono Trigger - Crono_75
+  - first:
+      213: 6594263375883828858
+    second: SNES - Chrono Trigger - Crono_76
+  - first:
+      213: -6577534317347213039
+    second: SNES - Chrono Trigger - Crono_77
+  - first:
+      213: 5615960662737895049
+    second: SNES - Chrono Trigger - Crono_78
+  - first:
+      213: -8085383479691018957
+    second: SNES - Chrono Trigger - Crono_79
+  - first:
+      213: 708320280503165952
+    second: SNES - Chrono Trigger - Crono_80
+  - first:
+      213: 8779463634886423467
+    second: SNES - Chrono Trigger - Crono_81
+  - first:
+      213: -3337792318775980504
+    second: SNES - Chrono Trigger - Crono_82
+  - first:
+      213: 6952665634024536011
+    second: SNES - Chrono Trigger - Crono_83
+  - first:
+      213: 6107777257758822529
+    second: SNES - Chrono Trigger - Crono_84
+  - first:
+      213: 5275222845896341141
+    second: SNES - Chrono Trigger - Crono_85
+  - first:
+      213: -312421849140990012
+    second: SNES - Chrono Trigger - Crono_86
+  - first:
+      213: -7410103305596445057
+    second: SNES - Chrono Trigger - Crono_87
+  - first:
+      213: -2980163312988843078
+    second: SNES - Chrono Trigger - Crono_88
+  - first:
+      213: -5671751831897849639
+    second: SNES - Chrono Trigger - Crono_89
+  - first:
+      213: -2243217990110004561
+    second: SNES - Chrono Trigger - Crono_90
+  - first:
+      213: -9183888512383371084
+    second: SNES - Chrono Trigger - Crono_91
+  - first:
+      213: -9139745254743577380
+    second: SNES - Chrono Trigger - Crono_92
+  - first:
+      213: -2748367727088305601
+    second: SNES - Chrono Trigger - Crono_93
+  - first:
+      213: -3894801728148102825
+    second: SNES - Chrono Trigger - Crono_94
+  - first:
+      213: 8385141091524081148
+    second: SNES - Chrono Trigger - Crono_95
+  - first:
+      213: -6435991904507008167
+    second: SNES - Chrono Trigger - Crono_96
+  - first:
+      213: -4240049855249905562
+    second: SNES - Chrono Trigger - Crono_97
+  - first:
+      213: -7251301300688596232
+    second: SNES - Chrono Trigger - Crono_98
+  - first:
+      213: -139539315763602254
+    second: SNES - Chrono Trigger - Crono_99
+  - first:
+      213: 1573266265253353082
+    second: SNES - Chrono Trigger - Crono_100
+  - first:
+      213: -6547161672262479451
+    second: SNES - Chrono Trigger - Crono_101
+  - first:
+      213: -6649314226295029826
+    second: SNES - Chrono Trigger - Crono_102
+  - first:
+      213: 6368052451571922224
+    second: SNES - Chrono Trigger - Crono_103
+  - first:
+      213: 7569385250140990078
+    second: SNES - Chrono Trigger - Crono_104
+  - first:
+      213: -7836124061551873696
+    second: SNES - Chrono Trigger - Crono_105
+  - first:
+      213: 4738086080118779145
+    second: SNES - Chrono Trigger - Crono_106
+  - first:
+      213: 1142244379602281864
+    second: SNES - Chrono Trigger - Crono_107
+  - first:
+      213: -5512580634810852359
+    second: SNES - Chrono Trigger - Crono_108
+  - first:
+      213: -8843625202804111906
+    second: SNES - Chrono Trigger - Crono_109
+  - first:
+      213: -1158079588656532974
+    second: SNES - Chrono Trigger - Crono_110
+  - first:
+      213: 8708249402362363664
+    second: SNES - Chrono Trigger - Crono_111
+  - first:
+      213: -7981468609919562450
+    second: SNES - Chrono Trigger - Crono_112
+  - first:
+      213: 5571732913823251295
+    second: SNES - Chrono Trigger - Crono_113
+  - first:
+      213: -2726610492138907635
+    second: SNES - Chrono Trigger - Crono_114
+  - first:
+      213: -4106735727814183398
+    second: SNES - Chrono Trigger - Crono_115
+  - first:
+      213: 3512694064265315161
+    second: SNES - Chrono Trigger - Crono_116
+  - first:
+      213: -6936327503238902694
+    second: SNES - Chrono Trigger - Crono_117
+  - first:
+      213: 2066902227666380102
+    second: SNES - Chrono Trigger - Crono_118
+  - first:
+      213: 9093660269387305819
+    second: SNES - Chrono Trigger - Crono_119
+  - first:
+      213: 4087833502510226639
+    second: SNES - Chrono Trigger - Crono_120
+  - first:
+      213: -3092217246455126548
+    second: SNES - Chrono Trigger - Crono_121
+  - first:
+      213: 4536420963762662633
+    second: SNES - Chrono Trigger - Crono_122
+  - first:
+      213: -7969456617029201029
+    second: SNES - Chrono Trigger - Crono_123
+  - first:
+      213: -3684780131542451610
+    second: SNES - Chrono Trigger - Crono_124
+  - first:
+      213: 8832226874141744244
+    second: SNES - Chrono Trigger - Crono_125
+  - first:
+      213: -365460237406602785
+    second: SNES - Chrono Trigger - Crono_126
+  - first:
+      213: -3388631804545055962
+    second: SNES - Chrono Trigger - Crono_127
+  - first:
+      213: -7081377760501141276
+    second: SNES - Chrono Trigger - Crono_128
+  - first:
+      213: 9085079796736674107
+    second: SNES - Chrono Trigger - Crono_129
+  - first:
+      213: 527024922491083790
+    second: SNES - Chrono Trigger - Crono_130
+  - first:
+      213: 4633217112213407814
+    second: SNES - Chrono Trigger - Crono_131
+  - first:
+      213: -2606299280501760730
+    second: SNES - Chrono Trigger - Crono_132
+  - first:
+      213: 8512305279892555887
+    second: SNES - Chrono Trigger - Crono_133
+  - first:
+      213: 8776184871577117398
+    second: SNES - Chrono Trigger - Crono_134
+  - first:
+      213: -5884225985441068670
+    second: SNES - Chrono Trigger - Crono_135
+  - first:
+      213: -4160330205538144543
+    second: SNES - Chrono Trigger - Crono_136
+  - first:
+      213: 1982531506218427133
+    second: SNES - Chrono Trigger - Crono_137
+  - first:
+      213: 182690827858333102
+    second: SNES - Chrono Trigger - Crono_138
+  - first:
+      213: 3287098998308279402
+    second: SNES - Chrono Trigger - Crono_139
+  - first:
+      213: 8031406707904653431
+    second: SNES - Chrono Trigger - Crono_140
+  - first:
+      213: -7879164099530354266
+    second: SNES - Chrono Trigger - Crono_141
+  - first:
+      213: 197478062057710739
+    second: SNES - Chrono Trigger - Crono_142
+  - first:
+      213: -2639070570781649337
+    second: SNES - Chrono Trigger - Crono_143
+  - first:
+      213: -332544411294413384
+    second: SNES - Chrono Trigger - Crono_144
+  - first:
+      213: -5129989582953005423
+    second: SNES - Chrono Trigger - Crono_145
+  - first:
+      213: -1901132769392318268
+    second: SNES - Chrono Trigger - Crono_146
+  - first:
+      213: -1800101505612974144
+    second: SNES - Chrono Trigger - Crono_147
+  - first:
+      213: 8233112276518837648
+    second: SNES - Chrono Trigger - Crono_148
+  - first:
+      213: -7846602419731487610
+    second: SNES - Chrono Trigger - Crono_149
+  - first:
+      213: 185767846260880647
+    second: SNES - Chrono Trigger - Crono_150
+  - first:
+      213: -6985307787251695821
+    second: SNES - Chrono Trigger - Crono_151
+  - first:
+      213: -5302463342711175339
+    second: SNES - Chrono Trigger - Crono_152
+  - first:
+      213: 730995476132739745
+    second: SNES - Chrono Trigger - Crono_153
+  - first:
+      213: -3646040690465997612
+    second: SNES - Chrono Trigger - Crono_154
+  - first:
+      213: -2743254102329082093
+    second: SNES - Chrono Trigger - Crono_155
+  - first:
+      213: 7433990029986626517
+    second: SNES - Chrono Trigger - Crono_156
+  - first:
+      213: 4372713860086203753
+    second: SNES - Chrono Trigger - Crono_157
+  - first:
+      213: 5161182966402488599
+    second: SNES - Chrono Trigger - Crono_158
+  - first:
+      213: 5766819070875782388
+    second: SNES - Chrono Trigger - Crono_159
+  - first:
+      213: 3469988657175496942
+    second: SNES - Chrono Trigger - Crono_160
+  - first:
+      213: 3405391204991465936
+    second: SNES - Chrono Trigger - Crono_161
+  - first:
+      213: -7104644410717214515
+    second: SNES - Chrono Trigger - Crono_162
+  - first:
+      213: -175840041314514168
+    second: SNES - Chrono Trigger - Crono_163
+  - first:
+      213: 3162019327025042687
+    second: SNES - Chrono Trigger - Crono_164
+  - first:
+      213: -568488144817138163
+    second: SNES - Chrono Trigger - Crono_165
+  - first:
+      213: -5405314309252868767
+    second: SNES - Chrono Trigger - Crono_166
+  - first:
+      213: -1780145613938918499
+    second: SNES - Chrono Trigger - Crono_167
+  - first:
+      213: -1962095796241317445
+    second: SNES - Chrono Trigger - Crono_168
+  - first:
+      213: 8774005478618512885
+    second: SNES - Chrono Trigger - Crono_169
+  - first:
+      213: -7693057773246310296
+    second: SNES - Chrono Trigger - Crono_170
+  - first:
+      213: 7129328851436443876
+    second: SNES - Chrono Trigger - Crono_171
+  - first:
+      213: -1059819603012500517
+    second: SNES - Chrono Trigger - Crono_172
+  - first:
+      213: 8140974177508408047
+    second: SNES - Chrono Trigger - Crono_173
+  - first:
+      213: 6242232361864075795
+    second: SNES - Chrono Trigger - Crono_174
+  - first:
+      213: 2442995058662248420
+    second: SNES - Chrono Trigger - Crono_175
+  - first:
+      213: 7247445236472267917
+    second: SNES - Chrono Trigger - Crono_176
+  - first:
+      213: 1765807880913080472
+    second: SNES - Chrono Trigger - Crono_177
+  - first:
+      213: -2759540840045585779
+    second: SNES - Chrono Trigger - Crono_178
+  - first:
+      213: 4771497663644257947
+    second: SNES - Chrono Trigger - Crono_179
+  - first:
+      213: -7738927139632781107
+    second: SNES - Chrono Trigger - Crono_180
+  - first:
+      213: 2618529943933741194
+    second: SNES - Chrono Trigger - Crono_181
+  - first:
+      213: 8652084413464186921
+    second: SNES - Chrono Trigger - Crono_182
+  - first:
+      213: -7765874056461249730
+    second: SNES - Chrono Trigger - Crono_183
+  - first:
+      213: -8746244099786971168
+    second: SNES - Chrono Trigger - Crono_184
+  - first:
+      213: 3656055678960761734
+    second: SNES - Chrono Trigger - Crono_185
+  - first:
+      213: -7725510837955908199
+    second: SNES - Chrono Trigger - Crono_186
+  - first:
+      213: -7214179414594565523
+    second: SNES - Chrono Trigger - Crono_187
+  - first:
+      213: 1401970020423267749
+    second: SNES - Chrono Trigger - Crono_188
+  - first:
+      213: 8338601129210856457
+    second: SNES - Chrono Trigger - Crono_189
+  - first:
+      213: 8885998900332512210
+    second: SNES - Chrono Trigger - Crono_190
+  - first:
+      213: -4176577129674232774
+    second: SNES - Chrono Trigger - Crono_191
+  - first:
+      213: 4704585381536095893
+    second: SNES - Chrono Trigger - Crono_192
+  - first:
+      213: -3387311574471374215
+    second: SNES - Chrono Trigger - Crono_193
+  - first:
+      213: 9085720679226780742
+    second: SNES - Chrono Trigger - Crono_194
+  - first:
+      213: 1838327611883015799
+    second: SNES - Chrono Trigger - Crono_195
+  - first:
+      213: -3875083710419938043
+    second: SNES - Chrono Trigger - Crono_196
+  - first:
+      213: 7600123761538208525
+    second: SNES - Chrono Trigger - Crono_197
+  - first:
+      213: -6097035669901770102
+    second: SNES - Chrono Trigger - Crono_198
+  - first:
+      213: 8829633504951751470
+    second: SNES - Chrono Trigger - Crono_199
+  - first:
+      213: -4405402586114404402
+    second: SNES - Chrono Trigger - Crono_200
+  - first:
+      213: -3380760855539311121
+    second: SNES - Chrono Trigger - Crono_201
+  - first:
+      213: -6333583076594497212
+    second: SNES - Chrono Trigger - Crono_202
+  - first:
+      213: 5098479313547936331
+    second: SNES - Chrono Trigger - Crono_203
+  - first:
+      213: 1437701112150849592
+    second: SNES - Chrono Trigger - Crono_204
+  - first:
+      213: 3178672326365598755
+    second: SNES - Chrono Trigger - Crono_205
+  - first:
+      213: -7528376203823667208
+    second: SNES - Chrono Trigger - Crono_206
+  - first:
+      213: 7965265103065158289
+    second: SNES - Chrono Trigger - Crono_207
+  - first:
+      213: -3177272288347939449
+    second: SNES - Chrono Trigger - Crono_208
+  - first:
+      213: 8999538273010134602
+    second: SNES - Chrono Trigger - Crono_209
+  - first:
+      213: 1863064756892201697
+    second: SNES - Chrono Trigger - Crono_210
+  - first:
+      213: 7889265525552116204
+    second: SNES - Chrono Trigger - Crono_211
+  - first:
+      213: 4061964886895119557
+    second: SNES - Chrono Trigger - Crono_212
+  - first:
+      213: -874162364334256709
+    second: SNES - Chrono Trigger - Crono_213
+  - first:
+      213: -1385544809117287877
+    second: SNES - Chrono Trigger - Crono_214
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -40,14 +685,14 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spriteGenerateFallbackPhysicsShape: 0
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
@@ -71,9 +716,4548 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 730
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4102c8854aabf90800000000000000
+      internalID: -6937051575795837733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 731
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74656547d0f654640800000000000000
+      internalID: 5063575459625064007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 731
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12b3586087eaac80800000000000000
+      internalID: -8310575623666683361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 731
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95b3fdce15a64fe0800000000000000
+      internalID: -1205094298552126052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_4
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 731
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe2e4e655b33bfd0800000000000000
+      internalID: -2327451344311537934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 731
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c9ec37fb63bc910800000000000000
+      internalID: 1858639467130035231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_6
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 731
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c353bb8c038dba8f0800000000000000
+      internalID: -528090827248159428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_7
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 731
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922c069c603ef3130800000000000000
+      internalID: 3548804649679110697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_8
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 731
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463db3101cf38c190800000000000000
+      internalID: -7942027844685933724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_9
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 731
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c8217af5e6af050800000000000000
+      internalID: 5835097624315857943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_10
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 731
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ba791d0a4df9900800000000000000
+      internalID: 693506654814579537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_11
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 731
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa5beb0d6b074f00800000000000000
+      internalID: 1100861196894689955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_12
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 731
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1a0f0169feaae60800000000000000
+      internalID: 7974449518021222876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_13
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 731
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d64064067878c70800000000000000
+      internalID: 8973289630120308071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_14
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 731
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2ef00291fb5d2d0800000000000000
+      internalID: -3254485041072315671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_15
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 731
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c206e8544dc1cc50800000000000000
+      internalID: 6683849015427465929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 713
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6551cea99e1ac40800000000000000
+      internalID: 5521951469727995621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_17
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 688
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5748c02ea5ef5a6d0800000000000000
+      internalID: -2979695912142732171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_18
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 688
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c3e0cc1b32823a0800000000000000
+      internalID: -6690057999919203172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_19
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 688
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec256053c35a98d00800000000000000
+      internalID: 975492472308650702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_20
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 688
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0561ef7559a84c80800000000000000
+      internalID: -8338228525393681138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_21
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 688
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a72b99e95dc36c0800000000000000
+      internalID: -4162217078437021112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_22
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 688
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8ab639e073bf730800000000000000
+      internalID: 4033878426982787315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_23
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 688
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f959d218e2cc437f0800000000000000
+      internalID: -633657147444587105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_24
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 688
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e980ca20854cf3870800000000000000
+      internalID: 8664860090365118622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_25
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 688
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21342d6b338dd410800000000000000
+      internalID: 1503502141869011247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_26
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 688
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff90514f2fe122110800000000000000
+      internalID: 1234583276678875647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_27
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 688
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4de7ccf69454560800000000000000
+      internalID: 7297319515744818360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_28
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 688
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf15a97ccadab5e0800000000000000
+      internalID: -1892960121606824016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_29
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 688
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eabb156cc530bdd0800000000000000
+      internalID: -2472417043440485658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 696
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f915ff7d66e383a70800000000000000
+      internalID: 8806857682754425247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_31
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 679
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925223624c254f2b0800000000000000
+      internalID: -5551721438233090775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_32
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 648
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708b5beab426d0750800000000000000
+      internalID: 6272777933190182919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_33
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 648
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b1d32305863d0d0800000000000000
+      internalID: -3399258600085054574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_34
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 648
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093480048678dea10800000000000000
+      internalID: 1940355896287183760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_35
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 648
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a97c31c0b9a2e5f0800000000000000
+      internalID: -728833613059294814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_36
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 648
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a25fbf22d18e1f0800000000000000
+      internalID: -1015529679878804907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_37
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 648
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d77fdf73cfce600800000000000000
+      internalID: 499050976145538372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_38
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 648
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbed9e075e86cc240800000000000000
+      internalID: 4813337436403392188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_39
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 648
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa8bc68d6296c510800000000000000
+      internalID: 1569102519295773350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_40
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 648
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de2252ce7c134bd0800000000000000
+      internalID: -2647240825212096812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_41
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 648
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc76117f81a51bf0800000000000000
+      internalID: -354199358229021448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_42
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 648
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de848d97526a1c40800000000000000
+      internalID: 5483803624721387217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_43
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 648
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b3751154f5aae60800000000000000
+      internalID: 7974290840461196089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_44
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 662
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d831eb3354b0d6790800000000000000
+      internalID: -7535354209672227955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_45
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 648
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81cef3f8e8699180800000000000000
+      internalID: -9108133421644856949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_46
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 648
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2cdb06cdc107bf00800000000000000
+      internalID: 1132375814609558573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_47
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 648
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a684be0fcd12760800000000000000
+      internalID: 7431463787435682421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_48
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 643
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaff1980e3d1711b0800000000000000
+      internalID: -5686043852262998102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_49
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 597
+        width: 16
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0aeb09e2e3abd080800000000000000
+      internalID: -9161548821987333617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_50
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 497
+        width: 56
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499dd1a6c7f6f75c0800000000000000
+      internalID: -4215528146048525932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_51
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 605
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89bfff2fa3e3d34e0800000000000000
+      internalID: -2000374236576744552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_52
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 605
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8915df5aa3612220800000000000000
+      internalID: 2459356454924392844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_53
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 605
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee195215756da6a0800000000000000
+      internalID: -6436376738949161246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_54
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 605
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be545214c76d40fc0800000000000000
+      internalID: -3529460378794375701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_55
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 605
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16a15dc9342d1060800000000000000
+      internalID: 6925731632642106910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_56
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 605
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88134dacbb326320800000000000000
+      internalID: 2549666020591868043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_57
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 589
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504518fff27a70550800000000000000
+      internalID: 6127049642652816389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_58
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 589
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1830a95e7a5f014c0800000000000000
+      internalID: -4318681941187886207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_59
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 597
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2e881a70c410f80800000000000000
+      internalID: -8142143055650561313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_60
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 597
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1652628c45c8b3090800000000000000
+      internalID: -8053689212858915487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_61
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 563
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6e8c78d8e3f69b0800000000000000
+      internalID: -5084776676688599326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_62
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 563
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0782731543f016f0800000000000000
+      internalID: -715804862747343092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_63
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 563
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e2cef8a64260b50800000000000000
+      internalID: 6558969947411459646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_64
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 563
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b226b629daf696ac0800000000000000
+      internalID: -3861432414216953301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_65
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 563
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5396019060d9bd0800000000000000
+      internalID: -2621932772059957846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_66
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 563
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae97931e16194560800000000000000
+      internalID: 7298388989564133032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_67
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 541
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9621f8a05faf77690800000000000000
+      internalID: -7604333515440713111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_68
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 541
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e6e0e1bb703e580800000000000000
+      internalID: -8799180746707276181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_69
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 541
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4317dccbfff6118c0800000000000000
+      internalID: -4030317047344959180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_70
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 541
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdff46b8c02124670800000000000000
+      internalID: 8521393290025959388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_71
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 541
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3733a724c0c7d70800000000000000
+      internalID: 9042115631510680489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_72
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 520
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dae84f559b6fab10800000000000000
+      internalID: 1994931449241332435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_73
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 520
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45de515a9ff6f3300800000000000000
+      internalID: 234028823653772628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_74
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 520
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a801e75ecb1e4c00800000000000000
+      internalID: 886676749690144928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_75
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 520
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa3795b16ee52c20800000000000000
+      internalID: 3181210815232948980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_76
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 520
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e7cea3a97838b50800000000000000
+      internalID: 6594263375883828858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_77
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 520
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111f39c3367e7b4a0800000000000000
+      internalID: -6577534317347213039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_78
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 521
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e3f07d776efed40800000000000000
+      internalID: 5615960662737895049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_79
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 521
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d743c3092facf80800000000000000
+      internalID: -8085383479691018957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_80
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 521
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004a892da8574d900800000000000000
+      internalID: 708320280503165952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_81
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 486
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba37ddb09abe6d970800000000000000
+      internalID: 8779463634886423467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_82
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 486
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e84590297cda1d0800000000000000
+      internalID: -3337792318775980504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_83
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 480
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7391eae84dc7060800000000000000
+      internalID: 6952665634024536011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_84
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 480
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1809ce73e0f23c450800000000000000
+      internalID: 6107777257758822529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_85
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 480
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5963da0aa3b553940800000000000000
+      internalID: 5275222845896341141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_86
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 480
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf61e5cbfd0aabf0800000000000000
+      internalID: -312421849140990012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_87
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 480
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ed9f0dd460a2990800000000000000
+      internalID: -7410103305596445057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_88
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 480
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab316a4a14554a6d0800000000000000
+      internalID: -2980163312988843078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_89
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 480
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0ce8552c3e941b0800000000000000
+      internalID: -5671751831897849639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_90
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 480
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa3ab18f1d7ed0e0800000000000000
+      internalID: -2243217990110004561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_91
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 486
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8399a6e064c8080800000000000000
+      internalID: -9183888512383371084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_92
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 486
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc62718d1a192180800000000000000
+      internalID: -9139745254743577380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_93
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 485
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3af0ca1d16dbd9d0800000000000000
+      internalID: -2748367727088305601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_94
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 343
+        width: 56
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751a72bb672e2f9c0800000000000000
+      internalID: -3894801728148102825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_95
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 438
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5f2d775610e5470800000000000000
+      internalID: 8385141091524081148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_96
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 435
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95be1925673cea6a0800000000000000
+      internalID: -6435991904507008167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_97
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 438
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66802e31f115825c0800000000000000
+      internalID: -4240049855249905562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_98
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 434
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2d025d2e33e5b90800000000000000
+      internalID: -7251301300688596232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_99
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 437
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc95bb4bb1401ef0800000000000000
+      internalID: -139539315763602254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_100
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 437
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76188d255d55d510800000000000000
+      internalID: 1573266265253353082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_101
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 437
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a11ebdb52fc325a0800000000000000
+      internalID: -6547161672262479451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_102
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 437
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebfbbb5d0f3e8b3a0800000000000000
+      internalID: -6649314226295029826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_103
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 432
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035fffe17fddf5850800000000000000
+      internalID: 6368052451571922224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_104
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 438
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a2cbad7cbdb0960800000000000000
+      internalID: 7569385250140990078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_105
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 438
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0613f4ffeae704390800000000000000
+      internalID: -7836124061551873696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_106
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 436
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90de3b8bf2011c140800000000000000
+      internalID: 4738086080118779145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_107
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 435
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88561ec16311adf00800000000000000
+      internalID: 1142244379602281864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_108
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 391
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fbd66a9e116f73b0800000000000000
+      internalID: -5512580634810852359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_109
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 391
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed54b2ccbb1254580800000000000000
+      internalID: -8843625202804111906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_110
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 391
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2123f78ffbcadefe0800000000000000
+      internalID: -1158079588656532974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_111
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 391
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ff05371bae9d870800000000000000
+      internalID: 8708249402362363664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_112
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 391
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d40df36902c3190800000000000000
+      internalID: -7981468609919562450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_113
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 391
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b79c79095c25d40800000000000000
+      internalID: 5571732913823251295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_114
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 392
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08153f1432292ad0800000000000000
+      internalID: -2726610492138907635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_115
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 392
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16fa3d2d91f107c0800000000000000
+      internalID: -4106735727814183398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_116
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 392
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9534821f3a89fb030800000000000000
+      internalID: 3512694064265315161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_117
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 392
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c4ca3d2e63dbf90800000000000000
+      internalID: -6936327503238902694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_118
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 381
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645a48900ac1fac10800000000000000
+      internalID: 2066902227666380102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_119
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 350
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53d9e0b5db233e70800000000000000
+      internalID: 9093660269387305819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_120
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 350
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc101a89e6eab830800000000000000
+      internalID: 4087833502510226639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_121
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 350
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5a4b03ccc3615d0800000000000000
+      internalID: -3092217246455126548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_122
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 350
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec65b0e4da94fe30800000000000000
+      internalID: 4536420963762662633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_123
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 350
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7396194e6dc66190800000000000000
+      internalID: -7969456617029201029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_124
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 350
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66abeff3ef70ddcc0800000000000000
+      internalID: -3684780131542451610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_125
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 350
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c90e00c8f529a70800000000000000
+      internalID: 8832226874141744244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_126
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 341
+        width: 14
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd979d1b9df9deaf0800000000000000
+      internalID: -365460237406602785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_127
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 339
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6234087d35929f0d0800000000000000
+      internalID: -3388631804545055962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_128
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 353
+        width: 56
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e07af01274e9bd90800000000000000
+      internalID: -7081377760501141276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_129
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 255
+        width: 63
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b394198b0ffa41e70800000000000000
+      internalID: 9085079796736674107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_130
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 310
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0cdbdcef5e505700800000000000000
+      internalID: 527024922491083790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_131
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 310
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648cdbc6a6e7c4040800000000000000
+      internalID: 4633217112213407814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_132
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 310
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d1657fc9094dbd0800000000000000
+      internalID: -2606299280501760730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_133
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 310
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f688dab4d88c12670800000000000000
+      internalID: 8512305279892555887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_134
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 310
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2e28974a54bc970800000000000000
+      internalID: 8776184871577117398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_135
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 289
+        width: 16
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28989a764a7075ea0800000000000000
+      internalID: -5884225985441068670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_136
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 289
+        width: 17
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee229e68b98346c0800000000000000
+      internalID: -4160330205538144543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_137
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 289
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df26b28a6ed538b10800000000000000
+      internalID: 1982531506218427133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_138
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 289
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eadc73a075c098200800000000000000
+      internalID: 182690827858333102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_139
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 272
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6415b78f1f1e9d20800000000000000
+      internalID: 3287098998308279402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_140
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 272
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778a85f39d9457f60800000000000000
+      internalID: 8031406707904653431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_141
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 272
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a19b704ff597a290800000000000000
+      internalID: -7879164099530354266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_142
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 272
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394e1eb40459db200800000000000000
+      internalID: 197478062057710739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_143
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 272
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7465f5b5c43206bd0800000000000000
+      internalID: -2639070570781649337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_144
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 247
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd41ccae90926bf0800000000000000
+      internalID: -332544411294413384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_145
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 247
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19eb1a677ad9ec8b0800000000000000
+      internalID: -5129989582953005423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_146
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 247
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c82481a1d1dd95e0800000000000000
+      internalID: -1901132769392318268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_147
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 160
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7fa4ec731c407e0800000000000000
+      internalID: -1800101505612974144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_148
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 227
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d10dd9ef3e14270800000000000000
+      internalID: 8233112276518837648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_149
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 227
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6842f2e1ca44b1390800000000000000
+      internalID: -7846602419731487610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_150
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 227
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705b1173fdaf39200800000000000000
+      internalID: 185767846260880647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_151
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 227
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33fb716c3933f0f90800000000000000
+      internalID: -6985307787251695821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_152
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 227
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5578b27feadd966b0800000000000000
+      internalID: -5302463342711175339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_153
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 227
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa3f473384052a00800000000000000
+      internalID: 730995476132739745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_154
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 198
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc77204f49a66dc0800000000000000
+      internalID: -3646040690465997612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_155
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 206
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31fba06ade00ee9d0800000000000000
+      internalID: -2743254102329082093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_156
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 206
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dbf5299b86da2760800000000000000
+      internalID: 7433990029986626517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_157
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 182
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9658dde86100fac30800000000000000
+      internalID: 4372713860086203753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_158
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 182
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7199735109430a740800000000000000
+      internalID: 5161182966402488599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_159
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 184
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fccf7b146bd70050800000000000000
+      internalID: 5766819070875782388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_160
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 184
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee884958c40e72030800000000000000
+      internalID: 3469988657175496942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_161
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 185
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d971c62241624f20800000000000000
+      internalID: 3405391204991465936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_162
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 185
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc86cbbec8b376d90800000000000000
+      internalID: -7104644410717214515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_163
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 160
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b88200a6a4f8df0800000000000000
+      internalID: -175840041314514168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_164
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 160
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff45f3823dfb1eb20800000000000000
+      internalID: 3162019327025042687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_165
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 159
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0657255b035c18f0800000000000000
+      internalID: -568488144817138163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_166
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 159
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16595a936477cf4b0800000000000000
+      internalID: -5405314309252868767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_167
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 159
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b73b8eef6ab47e0800000000000000
+      internalID: -1780145613938918499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_168
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 159
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1cfb9d44c35c4e0800000000000000
+      internalID: -1962095796241317445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_169
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 144
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd33620f7783c970800000000000000
+      internalID: 8774005478618512885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_170
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 144
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868981df6b4cc3590800000000000000
+      internalID: -7693057773246310296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_171
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 145
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e810dc41d670f260800000000000000
+      internalID: 7129328851436443876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_172
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 151
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3c17cafa3ca41f0800000000000000
+      internalID: -1059819603012500517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_173
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 150
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea3408b1ec8af070800000000000000
+      internalID: 8140974177508408047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_174
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 159
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a1b56a24dd0a650800000000000000
+      internalID: 6242232361864075795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_175
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 101
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef0993ff0347e120800000000000000
+      internalID: 2442995058662248420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_176
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 101
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84c6014b09149460800000000000000
+      internalID: 7247445236472267917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_177
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 102
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890d86b79e8618810800000000000000
+      internalID: 1765807880913080472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_178
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 102
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a56e50a3424b9d0800000000000000
+      internalID: -2759540840045585779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_179
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 122
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e4f1838d3c73240800000000000000
+      internalID: 4771497663644257947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_180
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 104
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8ee83e4cec99490800000000000000
+      internalID: -7738927139632781107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_181
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 122
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88e4e54c13e65420800000000000000
+      internalID: 2618529943933741194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_182
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 103
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9201a3feee0621870800000000000000
+      internalID: 8652084413464186921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_183
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 103
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e339436e0b21a3490800000000000000
+      internalID: -7765874056461249730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_184
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 116
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e76751b4591f9680800000000000000
+      internalID: -8746244099786971168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_185
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 116
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b7187f44becb230800000000000000
+      internalID: 3656055678960761734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_186
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 116
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d253b03d879c490800000000000000
+      internalID: -7725510837955908199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_187
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 81
+        width: 131
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ac7277b0612eb90800000000000000
+      internalID: -7214179414594565523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_188
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 102
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5731d3e4cc47310800000000000000
+      internalID: 1401970020423267749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_189
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 101
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904c8461c89a8b370800000000000000
+      internalID: 8338601129210856457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_190
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 104
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3c4d87be8615b70800000000000000
+      internalID: 8885998900332512210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_191
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 104
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c2fb0aa31d906c0800000000000000
+      internalID: -4176577129674232774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_192
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 102
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e54f18a7b0a4140800000000000000
+      internalID: 4704585381536095893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_193
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 68
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a801cd11addf0d0800000000000000
+      internalID: -3387311574471374215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_194
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 68
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64cabbdc1d6f61e70800000000000000
+      internalID: 9085720679226780742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_195
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 69
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e441f193d038910800000000000000
+      internalID: 1838327611883015799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_196
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 70
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505548d75efe83ac0800000000000000
+      internalID: -3875083710419938043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_197
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 70
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d039d7f3b40197960800000000000000
+      internalID: 7600123761538208525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_198
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 70
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a828e989c5af26ba0800000000000000
+      internalID: -6097035669901770102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_199
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 70
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23598f24e8298a70800000000000000
+      internalID: 8829633504951751470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_200
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 68
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf401250bddcd2c0800000000000000
+      internalID: -4405402586114404402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_201
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 70
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed9807f9ef1511d0800000000000000
+      internalID: -3380760855539311121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_202
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 70
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449c824afb79a18a0800000000000000
+      internalID: -6333583076594497212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_203
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 70
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42c3ba3cef61c640800000000000000
+      internalID: 5098479313547936331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_204
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 70
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8387fe25b8db3f310800000000000000
+      internalID: 1437701112150849592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_205
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 70
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324d266b3a9ec1c20800000000000000
+      internalID: 3178672326365598755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_206
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 70
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7269bcab5d58790800000000000000
+      internalID: -7528376203823667208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_207
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 70
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1929302d86e4a8e60800000000000000
+      internalID: 7965265103065158289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_208
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 70
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d145a00bf08e3d0800000000000000
+      internalID: -3177272288347939449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_209
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 70
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e2d41b068c4ec70800000000000000
+      internalID: 8999538273010134602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_210
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 70
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2fb14868fead910800000000000000
+      internalID: 1863064756892201697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_211
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 70
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1f445423d4c7d60800000000000000
+      internalID: 7889265525552116204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_212
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 70
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc4e7d1b8ffe5830800000000000000
+      internalID: 4061964886895119557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_213
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 69
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd47dd06f95ed3f0800000000000000
+      internalID: -874162364334256709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Crono_214
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2
+        width: 475
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a7d28465e85cce0800000000000000
+      internalID: -1385544809117287877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

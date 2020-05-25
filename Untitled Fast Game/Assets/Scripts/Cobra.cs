@@ -14,6 +14,11 @@ public class Cobra : MonoBehaviour, IInimigo
         else
             return false;
     }
+    public Vector2 PegaPosicao()
+    {
+        return gameObject.transform.position;
+    }
+
 
     public ResultadoDeAtaque TesteAtaque()
     {

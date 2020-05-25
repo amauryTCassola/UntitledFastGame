@@ -8,7 +8,7 @@ public class Porco : MonoBehaviour, IInimigo
    
     public Vector2 PegaPosicao()
     {
-        return transform.position;
+        return gameObject.transform.position;
     }
     
     public bool PassivaAtiva(){

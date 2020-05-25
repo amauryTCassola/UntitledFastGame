@@ -1,4 +1,6 @@
-﻿public interface IInimigo
+﻿using UnityEngine;
+
+public interface IInimigo
 {
     bool PassivaAtiva();
 
@@ -10,4 +12,5 @@
 
     void AtualizaTurno();
 
+    Vector2 PegaPosicao();
 }

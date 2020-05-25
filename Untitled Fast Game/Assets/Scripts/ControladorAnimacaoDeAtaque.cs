@@ -11,14 +11,22 @@ public static class ControladorAnimacaoDeAtaque{
     
     //Tem que ser uma coroutine pra poder esperar pelo fim das animações antes de retornar
     public static async Task ExecutaAnimacaoAtaque(ControladorPlayer player, IInimigo inimigo, ResultadoDeAtaque resultadoAtaque){
-        
-        if(resultadoAtaque == ResultadoDeAtaque.ATAQUE_SUCESSO){
+
+
+        if (resultadoAtaque == ResultadoDeAtaque.ATAQUE_SUCESSO){
             Debug.Log("Executando animacao de ataque que deu certo... :)");
-            await Task.Delay(1000);
+
+            //aqui ele vai mandar o lerp começar la no ControladorPlayer e dar a posição do inimigo
+            player.comecarALerpar(inimigo.PegaPosicao());
+
+            await Task.Delay(500);
+
         }
-        else{
+        else
+        {
             Debug.Log("Executando animacao de ataque que deu errado... :(");
-            await Task.Delay(1000);
+            await Task.Delay(3000);
+            
         }
     }
 }

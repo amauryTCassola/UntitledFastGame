@@ -8,11 +8,15 @@ public class Jacare : MonoBehaviour, IInimigo
     public bool levouAtaque = false;
     public bool bocaAberta = false;
     public int turnosAteFecharBoca;
-
+    public Vector2 posicao;
     public bool PassivaAtiva(){
         return false; //o jacare nao tem passiva
     }
-
+     
+    public Vector2 PegaPosicao()
+    {
+        return gameObject.transform.position;
+    }
     public ResultadoDeAtaque TesteAtaque(){
         if(bocaAberta)
             return ResultadoDeAtaque.ATAQUE_FALHA; //o player nao pode atacar enquanto ele tiver a boca aberta

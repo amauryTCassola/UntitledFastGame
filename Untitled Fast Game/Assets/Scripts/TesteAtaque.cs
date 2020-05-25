@@ -11,8 +11,10 @@ public class TesteAtaque : MonoBehaviour
     List<IInimigo> listaInimigos;
     //o controlador do player, pra poder  chamar no update depois
     ControladorPlayer player;
+    //controlador da linha pra chamar no update depois
+    ControladorLinha linha;
 
-    //aqui vamos colocar a posição do inimigo e do mouse
+    //aqui vamos colocar a posição do inimigo, do mouse e do jogador
     Vector2 posicaoInimigo;
     Vector2 posicaoClique;
 
@@ -25,30 +27,28 @@ public class TesteAtaque : MonoBehaviour
     {
         //cria array com todos os inimigos na tela
         inimigos = GameObject.FindGameObjectsWithTag("Inimigo");
-        //cria o controlador
-        player = new ControladorPlayer();
         //cria a lista de inimigos
         listaInimigos = new List<IInimigo>();
 
-        // eu não acho q seria bom apagar teu código então só comentei
-        /*
-        listaInimigos.Add(GameObject.Find("jacare (?)").GetComponent<Jacare>());
-        listaInimigos.Add(GameObject.Find("porco (?)").GetComponent<Porco>());
-        listaInimigos.Add(GameObject.Find("porco 2 (?)").GetComponent<Porco>());
-        listaInimigos.Add(GameObject.Find("jacare (?)").GetComponent<Jacare>());
+        player = GameObject.FindGameObjectWithTag("Player").GetComponent<ControladorPlayer>();
 
-        bool ataqueDeuCerto = await gameObject.GetComponent<ProcessadorDeAtaque>().ExecutaAtaque(player, listaInimigos);
-        if(ataqueDeuCerto) Debug.Log("ataque inteiro deu mto certo bah vsf");
-        else Debug.Log("ataque inteiro n deu certo ;-;"); 
-        */
+        //pega o controlador da linha pra poder usar os métodos dele depois
+        linha = GameObject.FindGameObjectWithTag("Player").GetComponent<ControladorLinha>();
+        
     }
 
     //esse método vai ser chamado no SelecionaInimigos pra executar o ataque, ele faz tudo q fazia no start
-    async void ExecutaAtaque()
+    async void FinalizaJogada()
     {
-        ataqueDeuCerto = await gameObject.GetComponent<ProcessadorDeAtaque>().ExecutaAtaque(player, listaInimigos);
-        if (ataqueDeuCerto) Debug.Log("ataque inteiro deu mto certo bah vsf");
-        else Debug.Log("ataque inteiro n deu certo ;-;");
+            ataqueDeuCerto = await gameObject.GetComponent<ProcessadorDeAtaque>().ExecutaAtaque(player, listaInimigos);
+            if (ataqueDeuCerto) Debug.Log("ataque inteiro deu mto certo bah vsf");
+            else
+            {
+                Debug.Log("ataque inteiro n deu certo ;-;");
+                Destroy(player.gameObject);
+            }
+        
+        
     }
 
     //aqui é o método importante q vai ser chamado no update, é aqui q a mágica acontece
@@ -75,20 +75,24 @@ public class TesteAtaque : MonoBehaviour
                    bonitinho, e mais uma vez deixamos positivo só pra ser mais facil de usar no if.
                  
                  */
-                var xis = Mathf.Abs(Mathf.Round((Mathf.Abs(posicaoInimigo.x) - Mathf.Abs(posicaoClique.x)) * 100));
-                var ipi = Mathf.Abs(Mathf.Round((Mathf.Abs(posicaoInimigo.y) - Mathf.Abs(posicaoClique.y)) * 100));
+                
 
                 //aqui ele vai pegar os floats x e y e ver se eles são menores q 5(é meio arbitrário a distancia)
-                 if (xis <= 2 && ipi <= 2)
+              if (Vector2.Distance(posicaoClique, posicaoInimigo) <= 0.5)
                  {
+
+                    
                     //aqui checa se não existe nenhum inimigo na lista ainda
                     if (listaInimigos.Count == 0)
                     {
+                        
+
                         //adiciona qualquer script da interface q tiver no GameObjcet
                         listaInimigos.Add(inimigos[i].GetComponent<IInimigo>());
                         //aqui é só pra confirmar q foi adicionado
                         Debug.Log(listaInimigos.Count);
-
+                        //dando a posição pra linha ser feita
+                        linha.CriaGeradorDeLinha(posicaoInimigo, listaInimigos.Count);
                         /* aqui é o crux do código, ele vai setar o testaLista pra 0, o 
                           q significa q no próximo loop o i = 1 e testaLista = 0. Isso 
                           é importante pra checar se o inimigo q tá pra ser adicionado 
@@ -98,7 +102,7 @@ public class TesteAtaque : MonoBehaviour
 
                     } 
                     
-                    else 
+                   else 
                     {
                         /*aqui ele vai checar se o inimigo q vai ser adicionado não 
                            é mesmo. O testaLista vai ser sempre 1 menor q o i, fazendo
@@ -106,8 +110,12 @@ public class TesteAtaque : MonoBehaviour
                          */
                         if (listaInimigos[testaLista] != inimigos[i].GetComponent<IInimigo>())
                         {
+                            
+
                             listaInimigos.Add(inimigos[i].GetComponent<IInimigo>());
                             Debug.Log(listaInimigos.Count);
+                            //dando a posição pra linha ser feita
+                            linha.CriaGeradorDeLinha(posicaoInimigo, listaInimigos.Count);
 
                             //aqui incrimenta o testaLista toda vez q um inimigo novo for adicionado
                             testaLista ++;
@@ -128,9 +136,16 @@ public class TesteAtaque : MonoBehaviour
         }
         //quando o jogador solta o mouse ele processa tudo
         else if(Input.GetMouseButtonUp(0))
-        {
-            ExecutaAtaque();
-        }
+            if (listaInimigos.Count >= inimigos.Length)
+            {
+                FinalizaJogada();
+            }
+            else
+            {
+                Debug.Log("Voce nao selecionou todos os inimigos!");
+                listaInimigos.Clear();
+
+            }
 
     }
     void Update()

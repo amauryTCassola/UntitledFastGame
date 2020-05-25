@@ -42,3 +42,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: CamadaInimigos
+    uniqueID: 1472640629
+    locked: 0
+  - name: "CamadaInimigosDeTr\xE1s"
+    uniqueID: 1799415301
+    locked: 0
+  - name: CamadaPlayer
+    uniqueID: 3252486755
+    locked: 0

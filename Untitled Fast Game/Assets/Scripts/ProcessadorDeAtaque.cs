@@ -9,18 +9,25 @@ using System.Threading.Tasks;
 public class ProcessadorDeAtaque : MonoBehaviour
 {
 
+
     /*Dada uma lista de inimigos representando o movimento de ataque e o player que está atacando,
     itera por essa lista, a cada turno decidindo se o ataque foi com sucesso ou não e fazendo
     requisições ao script de animação conforme segue.
     Retorna:    true, se o ataque foi um sucesso
                 false, se o ataque não foi um sucesso*/
     public async Task<bool> ExecutaAtaque(ControladorPlayer player, List<IInimigo> listaAtaque){
-        
-        List<IInimigo> listaInimigos = listaAtaque.Distinct().ToList(); /*Lista de inimigos sendo atacados sem duplicatas*/
+
+        List <IInimigo> listaInimigos = listaAtaque.Distinct().ToList(); /*Lista de inimigos sendo atacados sem duplicatas*/
         UnityEvent eventoNovoTurno = new UnityEvent(); /*Evento que é ativado cada vez que um turno termina*/
         ResultadoDeAtaque resultadoAtaqueAtual; /*o resultado de um ataque pontual contra um inimigo, 
         usado para decidir qual animação deve ser reproduzida*/
         bool estaoTodosMortos = true; /*Resultado da checagem final do ataque*/
+
+        //aqui pegamos o ControladorLinha pra poder chamar o método de apagar as linhas
+        //o método é chamado na linha 64
+        ControladorLinha linha = GameObject.FindGameObjectWithTag("Player").GetComponent<ControladorLinha>();
+        //esses valores q vão incrementar e apagar as linhas (dessa posição a essa posição)
+        int esse = 0; int paraEsse = 1;
 
         /*Vincula todos os callbacks de atualização de turno*/
         foreach(IInimigo inimigo in listaInimigos){
@@ -46,12 +53,21 @@ public class ProcessadorDeAtaque : MonoBehaviour
             /*passa o resultado do ataque pro script de animação*/
             await ControladorAnimacaoDeAtaque.ExecutaAnimacaoAtaque(player, inimigoAtaque, resultadoAtaqueAtual);
 
+            
+
             /*com o resultado do ataque, decide se deve continuar ou terminar*/
             if (resultadoAtaqueAtual != ResultadoDeAtaque.ATAQUE_SUCESSO){
                 /*se falhou, para o loop e retorna false*/
                 return false;
             } else {
-                
+
+                //chamando o método
+                linha.ApagaLinha(esse, paraEsse);
+                //incrementando os valores
+                esse++;
+                paraEsse++;
+
+
                 /*se deu certo, notifica o inimigo sendo atacado*/
                 inimigoAtaque.LevaAtaque(player.Dano());
                 /*chama os atualizaTurno de todos (através do evento) e continua*/
