@@ -67,6 +67,7 @@
     <Compile Include="Assets\Scripts\ControladorAnimacaoDeAtaque.cs" />
     <Compile Include="Assets\Scripts\ControladorLinha.cs" />
     <Compile Include="Assets\Scripts\ControladorPlayer.cs" />
+    <Compile Include="Assets\Scripts\ControladorSelecao.cs" />
     <Compile Include="Assets\Scripts\IInimigo.cs" />
     <Compile Include="Assets\Scripts\Jacare.cs" />
     <Compile Include="Assets\Scripts\Porco.cs" />

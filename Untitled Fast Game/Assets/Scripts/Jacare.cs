@@ -9,6 +9,8 @@ public class Jacare : MonoBehaviour, IInimigo
     public bool bocaAberta = false;
     public int turnosAteFecharBoca;
     public Vector2 posicao;
+    public Sprite SpriteBocaAberta;
+    public Sprite SpriteBocaFechada;
     public bool PassivaAtiva(){
         return false; //o jacare nao tem passiva
     }
@@ -44,7 +46,9 @@ public class Jacare : MonoBehaviour, IInimigo
         if(bocaAberta){
             this.turnosAteFecharBoca--;
             if (this.turnosAteFecharBoca <= 0){
-                Debug.Log("Jacare: Boca fechada :|");
+
+                gameObject.GetComponent<SpriteRenderer>().sprite = SpriteBocaFechada;
+                
                 bocaAberta = false;
             }
         }
@@ -53,8 +57,8 @@ public class Jacare : MonoBehaviour, IInimigo
             this.bocaAberta = true;
             this.levouAtaque = false;
             this.turnosAteFecharBoca = 2;
-            /*Animação de abrir a boca*/
-            Debug.Log("Jacare: Boca aberta :V");
+            gameObject.GetComponent<SpriteRenderer>().sprite = SpriteBocaAberta;
+           
         }
     }
 }
