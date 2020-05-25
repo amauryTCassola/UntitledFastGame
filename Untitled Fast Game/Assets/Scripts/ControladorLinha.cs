@@ -2,36 +2,67 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ControladorLinha : MonoBehaviour
-{
-    //o testalinha serve pra que a quantidade de pontos seja calculada corretamente
-    int testaLinha = 1;
-    //criando o lineRenderer
+public class ControladorLinha{
     LineRenderer lRend;
+    GameObject rendererObject;
 
-    public void CriaGeradorDeLinha(Vector3 posicaoAtual, int qualInimigo)
+    public ControladorLinha()
     {
-        //instanciando o lineRenderer
-        lRend = gameObject.GetComponent<LineRenderer>();
+        rendererObject = (GameObject)Object.Instantiate(Resources.Load("DesenhadorDeLinha"));
+        lRend = rendererObject.GetComponent<LineRenderer>();
 
-        //colocando o primeiro ponto smp no player
-        lRend.SetPosition(0, gameObject.transform.position);
-        //adicionando uma posição a lista
-        lRend.positionCount = testaLinha + qualInimigo;
-        //colocando o próximo ponto onde o inimigo está
-        lRend.SetPosition(qualInimigo, posicaoAtual);
-        
     }
-    /*
-        Não sei pq não ta funcionando, mas esse método é chamado no PorcessadorDeAtaque
-        logo quando o ataque da certo
-         */
-    public void ApagaLinha(int qual, int paraQual)
-    {
-        /*aqui ele deveria colocar o ponto atual no próximo ponto, 
-          mas só faz isso com o primeiro(vini big burro)*/
-        lRend.SetPosition(qual, lRend.GetPosition(paraQual));
-        
+
+    //Retorna os pontos da lista de pontos do line renderer em forma de List<Vector3>
+    List<Vector3> GetListaDePontos(){
+        Vector3[] positions = new Vector3[lRend.positionCount];
+        lRend.GetPositions(positions);
+        return new List<Vector3>(positions);
+    }
+
+    //Dada uma List<Vector3>, transforma a lista em array e a insere no lineRenderer
+    void SetListaDePontos(List<Vector3> pontosLista){
+        lRend.positionCount = pontosLista.Count;
+        lRend.SetPositions(pontosLista.ToArray());
+    }
+
+    //Dado um ponto representado por um Vector3, se este ponto faz parte da lista de pontos
+    //do line renderer, retira este ponto da lista
+    //Se o ponto não está na lista, não faz nada
+    public void ApagaPonto(Vector3 pontoASerApagado){
+        List<Vector3> pontosLista = GetListaDePontos();
+        if(pontosLista.Contains(pontoASerApagado)){
+            pontosLista.Remove(pontoASerApagado);
+            SetListaDePontos(pontosLista);
+        }
+    }
+
+    //Dado um ponto representado por um Vector3, adiciona ele ao fim da lista de pontos do line renderer
+    public void AdicionaPonto(Vector3 novoPonto){
+        List<Vector3> pontosLista = GetListaDePontos();
+        pontosLista.Add(novoPonto);
+        SetListaDePontos(pontosLista);
+    }
+
+    //Dado um Vector3 original e um Vector3 novo, se o original existir na lista,
+    //substitui ele pelo novo
+    public void SubstituiPonto(Vector3 pontoOriginal, Vector3 pontoNovo){
+        List<Vector3> pontosLista = GetListaDePontos();
+        if(pontosLista.Contains(pontoOriginal)){
+            pontosLista[pontosLista.IndexOf(pontoOriginal)] = pontoNovo;
+            SetListaDePontos(pontosLista);
+        }
+    }
+
+    //Substitui a lista de pontos atual por uma vazia
+    public void ApagaTodosOsPontos(){
+        lRend.positionCount = 0;
+    }
+
+    //Retorna o último ponto da lista
+    public Vector3 GetUltimoPonto(){
+        List<Vector3> listaPontos = GetListaDePontos();
+        return listaPontos[listaPontos.Count-1];
     }
 
 }
