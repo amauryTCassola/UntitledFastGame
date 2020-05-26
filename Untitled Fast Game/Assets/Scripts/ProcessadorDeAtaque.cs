@@ -23,12 +23,6 @@ public class ProcessadorDeAtaque : MonoBehaviour
         usado para decidir qual animação deve ser reproduzida*/
         bool estaoTodosMortos = true; /*Resultado da checagem final do ataque*/
 
-        //aqui pegamos o ControladorLinha pra poder chamar o método de apagar as linhas
-        //o método é chamado na linha 64
-        ControladorLinha linha = GameObject.FindGameObjectWithTag("Player").GetComponent<ControladorLinha>();
-        //esses valores q vão incrementar e apagar as linhas (dessa posição a essa posição)
-        int esse = 0; int paraEsse = 1;
-
         /*Vincula todos os callbacks de atualização de turno*/
         foreach(IInimigo inimigo in listaInimigos){
             eventoNovoTurno.AddListener(inimigo.AtualizaTurno);
@@ -42,7 +36,7 @@ public class ProcessadorDeAtaque : MonoBehaviour
                 /*se tiver, executa e retorna false*/
                 if(inimigoPassiva.PassivaAtiva() && !inimigoPassiva.EstaMorto()){
                     /*passa as infos pro controlador de animação*/
-                    await ControladorAnimacaoDeAtaque.ExecutaAnimacaoAtaque(player, inimigoPassiva, ResultadoDeAtaque.ATAQUE_PASSIVA);
+                   // await ControladorAnimacaoDeAtaque.ExecutaAnimacaoAtaque(player, inimigoPassiva, ResultadoDeAtaque.ATAQUE_PASSIVA);
                     /*Como teve uma passiva ativada, o ataque não deu certo e o jogador perdeu, então retorna false*/
                     return false;
                 }
@@ -51,22 +45,14 @@ public class ProcessadorDeAtaque : MonoBehaviour
             /*tenta atacar o inimigo atual*/
             resultadoAtaqueAtual = inimigoAtaque.TesteAtaque();
             /*passa o resultado do ataque pro script de animação*/
-            await ControladorAnimacaoDeAtaque.ExecutaAnimacaoAtaque(player, inimigoAtaque, resultadoAtaqueAtual);
+           // await ControladorAnimacaoDeAtaque.ExecutaAnimacaoAtaque(player, inimigoAtaque, resultadoAtaqueAtual);
 
             
 
             /*com o resultado do ataque, decide se deve continuar ou terminar*/
             if (resultadoAtaqueAtual != ResultadoDeAtaque.ATAQUE_SUCESSO){
-                /*se falhou, para o loop e retorna false*/
                 return false;
             } else {
-
-                //chamando o método, teria que trocar pro novo
-                //linha.ApagaLinha(esse, paraEsse);
-                //incrementando os valores
-                esse++;
-                paraEsse++;
-
 
                 /*se deu certo, notifica o inimigo sendo atacado*/
                 inimigoAtaque.LevaAtaque(player.Dano());

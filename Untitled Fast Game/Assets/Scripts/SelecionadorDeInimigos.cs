@@ -12,6 +12,10 @@ public class SelecionadorDeInimigos : MonoBehaviour
 
     public InimigosManager inimigosManager; //tem que botar no inspector, TO-DO: mudar isso, se pá fazer como eu fiz no ControladorLinha
 
+    public TesteProcessadorDeAtaque processadorDeAtaque;
+
+    int inimigoAnterior;
+
     void Start()
     {
         player = GameObject.FindGameObjectWithTag("Player").GetComponent<ControladorPlayer>();//PÉSSIMO HORRÍVEL TEM QUE SER MUDADO MTO RUIM NO-GOOD VERY BAD
@@ -36,7 +40,7 @@ public class SelecionadorDeInimigos : MonoBehaviour
             
             if(TodosInimigosSelecionados()){
                 Debug.Log("TODOS INIMIGOS SELECIONADOS!");
-                Debug.Log("Alguem deveria executar o ataque agora ou algo assim...");
+                StartCoroutine(processadorDeAtaque.ExecutaAtaque(player, inimigosSelecionados));
             } else {
                 Debug.Log("Nem todos os inimigos foram selecionados, seu bobo >:^(");
             }
@@ -66,12 +70,31 @@ public class SelecionadorDeInimigos : MonoBehaviour
         return worldPosition;
     }
 
+    void AdicionaInimigo(GameObject inimigoProximo)
+    {
+        inimigosSelecionados.Add(inimigoProximo.GetComponent<IInimigo>());
+        lineController.SubstituiPonto(lineController.GetUltimoPonto(), inimigoProximo.transform.position);
+        lineController.AdicionaPonto(GetMouseWorldPosition());
+    }
+
     void SelecionaInimigo(){
         GameObject inimigoProximo = inimigosManager.SelecionaInimigoPorPosicao(GetMouseWorldPosition());
         if(inimigoProximo != null){
-            inimigosSelecionados.Add(inimigoProximo.GetComponent<IInimigo>());
-            lineController.SubstituiPonto(lineController.GetUltimoPonto(), inimigoProximo.transform.position);
-            lineController.AdicionaPonto(GetMouseWorldPosition());
-        }
+            if(inimigosSelecionados.Count == 0) 
+            {
+                AdicionaInimigo(inimigoProximo);
+                inimigoAnterior = 0;
+                Debug.Log(inimigosSelecionados.Count);
+            }
+            if (inimigosSelecionados[inimigoAnterior] != inimigoProximo.GetComponent<IInimigo>())
+            {
+                AdicionaInimigo(inimigoProximo);
+                inimigoAnterior ++;
+                Debug.Log(inimigosSelecionados.Count);
+
+            }
+        } 
     }
+
+    
 }
