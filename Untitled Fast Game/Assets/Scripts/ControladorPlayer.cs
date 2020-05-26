@@ -6,14 +6,14 @@ public class ControladorPlayer:MonoBehaviour
     public bool temQLerpar = false;
 
     /*aqui ele vai checar se a hora que o jogador
-     * começou o lerp e quanto tempo ele lerpou
+     * comeï¿½ou o lerp e quanto tempo ele lerpou
      */
     public float comecouALerpar;
     public float tempoLerpando;
     
     /*
      * aqui ele pega o local que termina o lerp e o
-     * que começa
+     * que comeï¿½a
      */
     public Vector2 ondeTermina;
     public Vector2 ondeComeca;
@@ -34,8 +34,8 @@ public class ControladorPlayer:MonoBehaviour
         temQLerpar = true;
     }
 
-    /* aqui é onde a magica acontece, ele vai fazer o lerp de acordo com
-     * a porcentagem de tempo q já passou, garantindo q smp seja feito em 
+    /* aqui ï¿½ onde a magica acontece, ele vai fazer o lerp de acordo com
+     * a porcentagem de tempo q jï¿½ passou, garantindo q smp seja feito em 
      * um segundo e tals
          */
     public Vector2 Lerpar(Vector2 comeca, Vector2 termina, float quandoComecou, float tempoDeLerp = 1)
@@ -47,6 +47,10 @@ public class ControladorPlayer:MonoBehaviour
         Vector2 resultado = Vector2.Lerp(comeca, termina, porcentagemCompleta);
         
         return resultado;
+    }
+
+    public Vector3 GetPlayerPosition(){
+        return gameObject.transform.position;
     }
 
 

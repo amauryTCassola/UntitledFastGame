@@ -61,8 +61,8 @@ public class ProcessadorDeAtaque : MonoBehaviour
                 return false;
             } else {
 
-                //chamando o método
-                linha.ApagaLinha(esse, paraEsse);
+                //chamando o método, teria que trocar pro novo
+                //linha.ApagaLinha(esse, paraEsse);
                 //incrementando os valores
                 esse++;
                 paraEsse++;

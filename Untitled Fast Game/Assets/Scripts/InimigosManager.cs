@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class InimigosManager : MonoBehaviour
 {
-    public List<GameObject> inimigos;
+    List<GameObject> inimigos;
 
     // Start is called before the first frame update
     void Start()
@@ -26,5 +26,13 @@ public class InimigosManager : MonoBehaviour
             }
         }
         return null;
+    }
+
+    public List<IInimigo> InimigosNaTela(){
+        List<IInimigo> inimigosNaTela = new List<IInimigo>();
+        foreach(GameObject inimigoObj in inimigos){
+            inimigosNaTela.Add(inimigoObj.GetComponent<IInimigo>());
+        }
+        return inimigosNaTela;
     }
 }

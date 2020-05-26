@@ -55,7 +55,7 @@ public class ControladorSelecao : MonoBehaviour
                 posLista = 0; //seta o posLista pra zero
                 Debug.Log(listaSelecao.Count);//isso é pra teste
 
-                linha.CriaGeradorDeLinha(posicaoInimigo, listaSelecao.Count);
+                //linha.CriaGeradorDeLinha(posicaoInimigo, listaSelecao.Count);
          }
          /*aqui usamos o posLista, q vai sempre ser a posição anterior da lista 
            e vemos se ela é igual ao inimigo q quer ser adicionado*/
@@ -66,7 +66,7 @@ public class ControladorSelecao : MonoBehaviour
                posLista += 1; // incrementando a posicao
                Debug.Log(listaSelecao.Count);//pra teste
 
-               linha.CriaGeradorDeLinha(posicaoInimigo, listaSelecao.Count);
+               //linha.CriaGeradorDeLinha(posicaoInimigo, listaSelecao.Count);
          }
         
         

@@ -166,7 +166,7 @@ PrefabInstance:
     - target: {fileID: 3073310296628184513, guid: 01e977ec55ad1e745a681c1568645661,
         type: 3}
       propertyPath: m_RootOrder
-      value: 3
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 3073310296628184513, guid: 01e977ec55ad1e745a681c1568645661,
         type: 3}
@@ -240,7 +240,7 @@ PrefabInstance:
     - target: {fileID: 7071351966588340113, guid: 51921f0bfe5c5f54691539f71642f0aa,
         type: 3}
       propertyPath: m_RootOrder
-      value: 4
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 7071351966588340113, guid: 51921f0bfe5c5f54691539f71642f0aa,
         type: 3}
@@ -262,7 +262,9 @@ PrefabInstance:
       propertyPath: m_Name
       value: player (_)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 7071351966588340114, guid: 51921f0bfe5c5f54691539f71642f0aa, type: 3}
+    - {fileID: 4622798543946444733, guid: 51921f0bfe5c5f54691539f71642f0aa, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 51921f0bfe5c5f54691539f71642f0aa, type: 3}
 --- !u!1 &519420028
 GameObject:
@@ -275,8 +277,6 @@ GameObject:
   - component: {fileID: 519420032}
   - component: {fileID: 519420031}
   - component: {fileID: 519420029}
-  - component: {fileID: 519420033}
-  - component: {fileID: 519420030}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -292,18 +292,6 @@ AudioListener:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 519420028}
   m_Enabled: 1
---- !u!114 &519420030
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 519420028}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e8a314cf81018fd44944571fdee17940, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!20 &519420031
 Camera:
   m_ObjectHideFlags: 0
@@ -327,7 +315,7 @@ Camera:
     y: 0
     width: 1
     height: 1
-  near clip plane: 0.3
+  near clip plane: 1
   far clip plane: 1000
   field of view: 60
   orthographic: 1
@@ -361,18 +349,50 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &519420033
+--- !u!1 &722664044
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 722664046}
+  - component: {fileID: 722664045}
+  m_Layer: 0
+  m_Name: Selecionador de inimigos
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &722664045
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 519420028}
+  m_GameObject: {fileID: 722664044}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 58889ade77d7dc24faaeeb881c4c0b7f, type: 3}
+  m_Script: {fileID: 11500000, guid: 4ef2411bc60bc6e42ad029d508c7b8f5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  inimigosManager: {fileID: 1408883748}
+--- !u!4 &722664046
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 722664044}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 3.5170493, y: 0.38201308, z: -0.675233}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 8
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1117851529
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -423,7 +443,7 @@ PrefabInstance:
     - target: {fileID: 7959448122771480856, guid: 05a2e2f2d3b0a0945b4e837277d32483,
         type: 3}
       propertyPath: m_RootOrder
-      value: 2
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 7959448122771480856, guid: 05a2e2f2d3b0a0945b4e837277d32483,
         type: 3}
@@ -442,6 +462,49 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 05a2e2f2d3b0a0945b4e837277d32483, type: 3}
+--- !u!1 &1408883747
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1408883749}
+  - component: {fileID: 1408883748}
+  m_Layer: 0
+  m_Name: Gerenciador de Inimigos
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1408883748
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1408883747}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0ffb0da5b5a77d429a162da8d79cb5e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!4 &1408883749
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1408883747}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 3.5170493, y: 0.38201308, z: -0.675233}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 9
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1521263665
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -492,7 +555,7 @@ PrefabInstance:
     - target: {fileID: 5925412350844668231, guid: a7c40b8643a926c47a4cf8e2cf5bda87,
         type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 5925412350844668231, guid: a7c40b8643a926c47a4cf8e2cf5bda87,
         type: 3}
@@ -642,7 +705,7 @@ PrefabInstance:
     - target: {fileID: 7959448122771480856, guid: 05a2e2f2d3b0a0945b4e837277d32483,
         type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 7959448122771480856, guid: 05a2e2f2d3b0a0945b4e837277d32483,
         type: 3}

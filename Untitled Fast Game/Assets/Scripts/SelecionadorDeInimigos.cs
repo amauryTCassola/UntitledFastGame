@@ -10,9 +10,8 @@ public class SelecionadorDeInimigos : MonoBehaviour
 
     ControladorPlayer player; //TO-DO: pegar o player de algum lugar sei la
 
-    public InimigosManager inimigosManager; //tem que botar no inspector, TO-DO: mudar isso
+    public InimigosManager inimigosManager; //tem que botar no inspector, TO-DO: mudar isso, se pá fazer como eu fiz no ControladorLinha
 
-    // Start is called before the first frame update
     void Start()
     {
         player = GameObject.FindGameObjectWithTag("Player").GetComponent<ControladorPlayer>();//PÉSSIMO HORRÍVEL TEM QUE SER MUDADO MTO RUIM NO-GOOD VERY BAD
@@ -20,12 +19,11 @@ public class SelecionadorDeInimigos : MonoBehaviour
         inimigosSelecionados = new List<IInimigo>();
     }
 
-    // Update is called once per frame
     void Update()
     {
         if(Input.GetMouseButtonDown(0)){
             
-            lineController.ApagaTodosOsPontos();
+            LimpaSelecao(); //redundante, mas só por precaução
             lineController.AdicionaPonto(player.GetPlayerPosition());
             lineController.AdicionaPonto(GetMouseWorldPosition());
 
@@ -36,18 +34,35 @@ public class SelecionadorDeInimigos : MonoBehaviour
         
         } else if(Input.GetMouseButtonUp(0)){
             
-            lineController.ApagaTodosOsPontos();
-            Debug.Log("INIMIGOS SELECIONADOS!");
-            inimigosSelecionados.Clear();
+            if(TodosInimigosSelecionados()){
+                Debug.Log("TODOS INIMIGOS SELECIONADOS!");
+                Debug.Log("Alguem deveria executar o ataque agora ou algo assim...");
+            } else {
+                Debug.Log("Nem todos os inimigos foram selecionados, seu bobo >:^(");
+            }
+            LimpaSelecao();
         
         }
+    }
+
+    void LimpaSelecao(){
+        inimigosSelecionados.Clear();
+        lineController.ApagaTodosOsPontos();
+    }
+
+    bool TodosInimigosSelecionados(){
+        foreach(IInimigo inimigo in inimigosManager.InimigosNaTela()){
+            if(!inimigosSelecionados.Contains(inimigo)){
+                return false;
+            }
+        }
+        return true;
     }
 
     Vector3 GetMouseWorldPosition(){
         Vector3 mousePos = Input.mousePosition;
         mousePos.z = Camera.main.nearClipPlane;
         Vector3 worldPosition = Camera.main.ScreenToWorldPoint(mousePos);
-
         return worldPosition;
     }
 

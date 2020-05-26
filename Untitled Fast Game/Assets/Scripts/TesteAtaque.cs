@@ -92,7 +92,7 @@ public class TesteAtaque : MonoBehaviour
                         //aqui é só pra confirmar q foi adicionado
                         Debug.Log(listaInimigos.Count);
                         //dando a posição pra linha ser feita
-                        linha.CriaGeradorDeLinha(posicaoInimigo, listaInimigos.Count);
+                        //linha.CriaGeradorDeLinha(posicaoInimigo, listaInimigos.Count);
                         /* aqui é o crux do código, ele vai setar o testaLista pra 0, o 
                           q significa q no próximo loop o i = 1 e testaLista = 0. Isso 
                           é importante pra checar se o inimigo q tá pra ser adicionado 
@@ -115,7 +115,7 @@ public class TesteAtaque : MonoBehaviour
                             listaInimigos.Add(inimigos[i].GetComponent<IInimigo>());
                             Debug.Log(listaInimigos.Count);
                             //dando a posição pra linha ser feita
-                            linha.CriaGeradorDeLinha(posicaoInimigo, listaInimigos.Count);
+                            //linha.CriaGeradorDeLinha(posicaoInimigo, listaInimigos.Count);
 
                             //aqui incrimenta o testaLista toda vez q um inimigo novo for adicionado
                             testaLista ++;
