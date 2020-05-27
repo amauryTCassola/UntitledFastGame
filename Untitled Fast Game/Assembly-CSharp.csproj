@@ -63,7 +63,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Morte.cs" />
     <Compile Include="Assets\Scripts\ControladorSelecao.cs" />
     <Compile Include="Assets\Scripts\Controladores\ControladorAnimacaoDeAtaque.cs" />
     <Compile Include="Assets\Scripts\Controladores\ControladorLinha.cs" />

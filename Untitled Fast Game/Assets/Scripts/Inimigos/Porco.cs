@@ -5,7 +5,7 @@ using UnityEngine;
 public class Porco : MonoBehaviour, IInimigo
 {
     public int vida;
-    Animator anim;
+    Animator anim; // pra pegar o animator
     public Vector2 PegaPosicao()
     {
         return gameObject.transform.position;
@@ -30,7 +30,7 @@ public class Porco : MonoBehaviour, IInimigo
         if (this.EstaMorto())
         {
             anim = gameObject.GetComponent<Animator>();
-            anim.Play("Porco_morto");
+            anim.Play("Porco_morto"); // to-do fazer ficar dinâmico para cada porco
             Destroy(gameObject, 0.5f);
         }
             

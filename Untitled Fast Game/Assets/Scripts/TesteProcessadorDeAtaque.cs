@@ -9,13 +9,11 @@ using System.Threading.Tasks;
 public class TesteProcessadorDeAtaque : MonoBehaviour
 {
     TesteControladorAnimacao animacao;
-    bool lacrou;
 
-    bool executando()
-    {
-        if (lacrou) return true;
-        else return false;
-    }
+    /*
+     O script agora eh uma corrotina, eu soh n pensei em um modo pra fazer
+     ele retornar um bool e sinceramente to co sono
+         */
 
     public IEnumerator ExecutaAtaque(ControladorPlayer player, List<IInimigo> listaAtaque)
     {
