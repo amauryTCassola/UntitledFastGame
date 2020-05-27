@@ -15,6 +15,16 @@ public class TesteProcessadorDeAtaque : MonoBehaviour
      ele retornar um bool e sinceramente to co sono
          */
 
+    public void AtaqueFuncionou()
+    {
+        Debug.Log("Suceso no ataque");
+    }
+
+    public void AtaqueDeuErrado()
+    {
+        Debug.Log("Falha no ataque");
+    }
+
     public IEnumerator ExecutaAtaque(ControladorPlayer player, List<IInimigo> listaAtaque)
     {
         List<IInimigo> listaInimigos = listaAtaque.Distinct().ToList(); /*Lista de inimigos sendo atacados sem duplicatas*/
@@ -23,7 +33,6 @@ public class TesteProcessadorDeAtaque : MonoBehaviour
         usado para decidir qual animação deve ser reproduzida*/
         bool estaoTodosMortos = true; /*Resultado da checagem final do ataque*/
 
-        
 
         // TO-DO arrumar essa porra
         animacao = GameObject.FindGameObjectWithTag("Animador").GetComponent<TesteControladorAnimacao>();
@@ -45,6 +54,8 @@ public class TesteProcessadorDeAtaque : MonoBehaviour
                 if (inimigoPassiva.PassivaAtiva() && !inimigoPassiva.EstaMorto())
                 {
                    yield return StartCoroutine(animacao.ExecutaAnimacao(player, inimigoAtaque, ResultadoDeAtaque.ATAQUE_PASSIVA));
+                    AtaqueDeuErrado();
+                    yield break;
                 }
             }
 
@@ -58,7 +69,8 @@ public class TesteProcessadorDeAtaque : MonoBehaviour
             /*com o resultado do ataque, decide se deve continuar ou terminar*/
             if (resultadoAtaqueAtual != ResultadoDeAtaque.ATAQUE_SUCESSO)
             {
-                lacrou = false;
+                AtaqueDeuErrado();
+                yield break;
             }
             else
             {
@@ -81,10 +93,12 @@ public class TesteProcessadorDeAtaque : MonoBehaviour
         }
 
         /*Se estiverem, retorna true*/
-        if (estaoTodosMortos) lacrou = true;
+        if (estaoTodosMortos) AtaqueFuncionou();
         /*Se não estiverem, retorna false*/
-        else lacrou = false;
+        else AtaqueDeuErrado();
 
         
     }
+
+
 }
