@@ -63,23 +63,24 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Carregar.cs" />
-    <Compile Include="Assets\Scripts\ControladorSelecao.cs" />
-    <Compile Include="Assets\Scripts\Controladores\ControladorAnimacaoDeAtaque.cs" />
-    <Compile Include="Assets\Scripts\Controladores\ControladorLinha.cs" />
-    <Compile Include="Assets\Scripts\Controladores\ControladorPlayer.cs" />
-    <Compile Include="Assets\Scripts\Gerenciadores\InimigosManager.cs" />
+    <Compile Include="Assets\Scripts\Ataque\AtaqueManager.cs" />
+    <Compile Include="Assets\Scripts\Ataque\ControladorAnimacao.cs" />
+    <Compile Include="Assets\Scripts\Ataque\ControladorPlayer.cs" />
+    <Compile Include="Assets\Scripts\Ataque\InimigosManager.cs" />
+    <Compile Include="Assets\Scripts\Ataque\ProcessaAtaque.cs" />
+    <Compile Include="Assets\Scripts\Ataque\ResultadoDeAtaque.cs" />
+    <Compile Include="Assets\Scripts\Ataque\SelecionadorDeInimigos.cs" />
     <Compile Include="Assets\Scripts\Inimigos\Cobra.cs" />
+    <Compile Include="Assets\Scripts\Inimigos\IInimigo.cs" />
     <Compile Include="Assets\Scripts\Inimigos\Jacare.cs" />
     <Compile Include="Assets\Scripts\Inimigos\Porco.cs" />
-    <Compile Include="Assets\Scripts\Interfaces\IInimigo.cs" />
+    <Compile Include="Assets\Scripts\Linha\ControladorLinha.cs" />
+    <Compile Include="Assets\Scripts\Menu\Carregar.cs" />
+    <Compile Include="Assets\Scripts\Menu\MenuOpcao.cs" />
+    <Compile Include="Assets\Scripts\Menu\MenuOpcoes.cs" />
     <Compile Include="Assets\Scripts\Menu\MenuPrincipal.cs" />
-    <Compile Include="Assets\Scripts\ProcessadorDeAtaque.cs" />
-    <Compile Include="Assets\Scripts\ResultadoDeAtaque.cs" />
-    <Compile Include="Assets\Scripts\SelecionadorDeInimigos.cs" />
-    <Compile Include="Assets\Scripts\TesteControladorAnimacao.cs" />
-    <Compile Include="Assets\Scripts\TesteProcessadorDeAtaque.cs" />
-    <Compile Include="Assets\VoltaIniciar.cs" />
+    <Compile Include="Assets\Scripts\Menu\SaveManager.cs" />
+    <Compile Include="Assets\Scripts\Menu\VoltaIniciar.cs" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Overlay.shader" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap.shader" />

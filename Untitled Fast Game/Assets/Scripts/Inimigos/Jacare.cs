@@ -11,6 +11,12 @@ public class Jacare : MonoBehaviour, IInimigo
     public Vector2 posicao;
     public Sprite SpriteBocaAberta;
     public Sprite SpriteBocaFechada;
+    public Animator animator;
+
+    private void Start()
+    {
+        animator = gameObject.GetComponent<Animator>();
+    }
     public bool PassivaAtiva(){
         return false; //o jacare nao tem passiva
     }
@@ -27,15 +33,23 @@ public class Jacare : MonoBehaviour, IInimigo
         }
     }
 
-    public void LevaAtaque(int dano){
+    public IEnumerator LevaAtaque(int dano){
         this.vida -= dano;
 
-        if(this.EstaMorto())
-            /*Animação de morte aqui*/
+        animator.SetTrigger("LevaDano");
+
+        if (this.EstaMorto())
+        {
+            animator.SetTrigger("Morreu");
+            yield return new WaitForSeconds(animator.GetCurrentAnimatorStateInfo(0).length);
             Destroy(gameObject);
-        else{
+        }
+        else
+        {
             this.levouAtaque = true;
         }
+
+        yield break;
     }
 
     public bool EstaMorto(){
@@ -48,13 +62,14 @@ public class Jacare : MonoBehaviour, IInimigo
             if (this.turnosAteFecharBoca <= 0){
 
                 gameObject.GetComponent<SpriteRenderer>().sprite = SpriteBocaFechada;
-                
+                this.animator.SetBool("BocaAberta", false);
                 bocaAberta = false;
             }
         }
         else if(levouAtaque)
         {
             this.bocaAberta = true;
+            this.animator.SetBool("BocaAberta", true);
             this.levouAtaque = false;
             this.turnosAteFecharBoca = 2;
             gameObject.GetComponent<SpriteRenderer>().sprite = SpriteBocaAberta;

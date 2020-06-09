@@ -6,6 +6,12 @@ public class Cobra : MonoBehaviour, IInimigo
 {
     public int vida;
     public int turnosAteAtivarPassiva ;
+    public Animator animator;
+
+    private void Start()
+    {
+        animator = gameObject.GetComponent<Animator>();
+    }
 
     public bool PassivaAtiva()
     {
@@ -33,14 +39,21 @@ public class Cobra : MonoBehaviour, IInimigo
         }
     }
 
-    public void LevaAtaque(int dano)
+    public IEnumerator LevaAtaque(int dano)
     {
         this.vida -= dano;
 
+        animator.SetTrigger("LevaDano");
+
+        yield return new WaitForSeconds(animator.GetCurrentAnimatorClipInfo(0).Length);
+
         if (this.EstaMorto())
-            /*Animação de morte aqui*/
+        {
+            animator.SetTrigger("Morreu");
+            yield return new WaitForSeconds(animator.GetCurrentAnimatorClipInfo(0).Length);
             Destroy(gameObject);
-        
+        }
+        yield break;
     }
 
     public bool EstaMorto()

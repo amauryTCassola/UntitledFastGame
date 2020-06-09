@@ -5,7 +5,12 @@ using UnityEngine;
 public class Porco : MonoBehaviour, IInimigo
 {
     public int vida;
-    Animator anim; // pra pegar o animator
+    Animator animator; // pra pegar o animator
+
+    private void Start()
+    {
+        animator = gameObject.GetComponent<Animator>();
+    }
     public Vector2 PegaPosicao()
     {
         return gameObject.transform.position;
@@ -25,15 +30,23 @@ public class Porco : MonoBehaviour, IInimigo
             }
     }
 
-    public void LevaAtaque(int dano){
+    public IEnumerator LevaAtaque(int dano)
+    {
         this.vida -= dano;
+
+        animator.SetTrigger("LevaDano");
+
+        Debug.Log(animator.GetCurrentAnimatorStateInfo(0).length);
+        
+
         if (this.EstaMorto())
         {
-            anim = gameObject.GetComponent<Animator>();
-            anim.Play("Porco_morto"); // to-do fazer ficar dinâmico para cada porco
-            Destroy(gameObject, 0.5f);
+            animator.SetTrigger("Morreu");
+            yield return new WaitForSeconds(animator.GetCurrentAnimatorStateInfo(0).length);
+            Destroy(gameObject);
         }
-            
+
+        yield break;
     }
 
     public bool EstaMorto(){
