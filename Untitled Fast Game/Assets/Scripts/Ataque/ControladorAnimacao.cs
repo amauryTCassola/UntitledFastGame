@@ -22,7 +22,7 @@ public class ControladorAnimacao : MonoBehaviour
         }
         else
         {
-            StartCoroutine(player.ComecarALerpar(inimigo.PegaPosicao()));//espera o lerp e destroi o player
+            yield return StartCoroutine(player.ComecarALerpar(inimigo.PegaPosicao()));//espera o lerp e destroi o player
             Debug.Log("Executando animacao de ataque que deu errado... :(");
             Destroy(player.gameObject);
         }

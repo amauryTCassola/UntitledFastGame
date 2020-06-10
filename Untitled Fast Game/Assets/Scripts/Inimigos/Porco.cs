@@ -35,8 +35,6 @@ public class Porco : MonoBehaviour, IInimigo
         this.vida -= dano;
 
         animator.SetTrigger("LevaDano");
-
-        Debug.Log(animator.GetCurrentAnimatorStateInfo(0).length);
         
 
         if (this.EstaMorto())

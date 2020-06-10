@@ -30,20 +30,24 @@ public class ProcessaAtaque : MonoBehaviour
                 if (inimigoPassiva.PassivaAtiva() && !inimigoPassiva.EstaMorto())
                 {
                     yield return StartCoroutine(animador.ExecutaAnimacao(player, inimigoAtaque, ResultadoDeAtaque.ATAQUE_PASSIVA));
-                    yield break;
+                    resultadoAtaqueAtual = ResultadoDeAtaque.ATAQUE_PASSIVA;
                 }
             }
 
-            /*tenta atacar o inimigo atual*/
-            resultadoAtaqueAtual = inimigoAtaque.TesteAtaque();
-            /*passa o resultado do ataque pro script de animação e espera a animação executar*/
-            yield return StartCoroutine(animador.ExecutaAnimacao(player, inimigoAtaque, resultadoAtaqueAtual));
+            if (player != null)
+            {
+                /*tenta atacar o inimigo atual*/
+                resultadoAtaqueAtual = inimigoAtaque.TesteAtaque();
+                /*passa o resultado do ataque pro script de animação e espera a animação executar*/
+                yield return StartCoroutine(animador.ExecutaAnimacao(player, inimigoAtaque, resultadoAtaqueAtual));
+            }
+            else resultadoAtaqueAtual = ResultadoDeAtaque.ATAQUE_FALHA;
 
 
             /*com o resultado do ataque, decide se deve continuar ou terminar*/
             if (resultadoAtaqueAtual != ResultadoDeAtaque.ATAQUE_SUCESSO)
             {
-                yield break;
+                break;
             }
             else
             {
@@ -54,11 +58,12 @@ public class ProcessaAtaque : MonoBehaviour
         }
     }
 
-    public bool ChecagemFinal(List<IInimigo> listaInimigos)
+    public bool ChecagemFinal(List<IInimigo> listaAtaque)
     {
+        
         bool morreramTodos = true;
         /*Se chegou até aqui, loopa por todos os monstros checando se estão todos mortos*/
-        foreach (IInimigo inimigo in listaInimigos)
+        foreach (IInimigo inimigo in listaAtaque)
         {
             if (!inimigo.EstaMorto())
             {

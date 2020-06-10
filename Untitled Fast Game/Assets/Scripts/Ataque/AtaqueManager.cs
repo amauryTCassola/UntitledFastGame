@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using System.Linq;
 using UnityEngine;
 
 public class AtaqueManager : MonoBehaviour
@@ -16,9 +17,10 @@ public class AtaqueManager : MonoBehaviour
 
     public IEnumerator FazendoAtaque(ControladorPlayer player, List<IInimigo> lista)
     {
+        List<IInimigo> listaInimigos = lista.Distinct().ToList();
         yield return StartCoroutine(processador.ExecutaAtaque(player, lista, animador));
 
-        if (processador.ChecagemFinal(lista))
+        if (processador.ChecagemFinal(listaInimigos))
         {
             Debug.Log("Ganhastes");
         }
@@ -26,7 +28,6 @@ public class AtaqueManager : MonoBehaviour
         {
             Debug.Log("Perdestes");
         }
-        yield break;
     }
 
     

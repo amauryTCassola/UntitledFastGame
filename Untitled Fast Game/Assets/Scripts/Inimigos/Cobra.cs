@@ -45,12 +45,10 @@ public class Cobra : MonoBehaviour, IInimigo
 
         animator.SetTrigger("LevaDano");
 
-        yield return new WaitForSeconds(animator.GetCurrentAnimatorClipInfo(0).Length);
-
         if (this.EstaMorto())
         {
             animator.SetTrigger("Morreu");
-            yield return new WaitForSeconds(animator.GetCurrentAnimatorClipInfo(0).Length);
+            yield return new WaitForSeconds(animator.GetCurrentAnimatorStateInfo(0).length);
             Destroy(gameObject);
         }
         yield break;
