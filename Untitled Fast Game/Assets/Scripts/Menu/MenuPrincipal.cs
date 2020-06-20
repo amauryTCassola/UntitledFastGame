@@ -7,25 +7,39 @@ using UnityEngine.UI;
 public class MenuPrincipal : MonoBehaviour
 {
     Animator animator;
-    SaveManager saveManager;
     public Button botaoContinuar;
+    GameManager GM;
+
+    private void Awake()
+    {
+        GM = GameManager.instance;
+    }
 
     private void Start()
     {
         animator = gameObject.GetComponent<Animator>();
-        saveManager = GameObject.Find("SaveManager").GetComponent<SaveManager>();
 
         //PlayerPrefs.DeleteKey("nivel");
 
+        //seta o botão continuar pra inativo caso o jogador nunca tenha salvado
         if (!PlayerPrefs.HasKey("nivel"))
             botaoContinuar.interactable = false;
         else
             botaoContinuar.interactable = true;
     }
+
+    //todas essas fazem a animacao do menu saindo e chamam a corrotina 
+    //vai passar o nivel pro game manager
     public void JogarJogo()
     {
         animator.SetTrigger("MenuSai");
-        StartCoroutine(EntraJogo());
+        StartCoroutine(EntraJogo(2));
+    }
+
+    public void ContinuaJogo()
+    {
+        animator.SetTrigger("MenuSai");
+        StartCoroutine(EntraJogo(GM.RetornaSave()));
     }
 
     public void SairJogo()
@@ -34,11 +48,7 @@ public class MenuPrincipal : MonoBehaviour
         Application.Quit();
     }
 
-    public void ContinuaJogo()
-    {
-        SceneManager.LoadScene(saveManager.RetornaSave());
-    }
-
+   
     public void EntrarOpcoes()
     {
         animator.SetTrigger("MenuSai");
@@ -54,12 +64,11 @@ public class MenuPrincipal : MonoBehaviour
 
     }
 
-    IEnumerator EntraJogo()
+    IEnumerator EntraJogo(int nivel)
     {
 
         yield return new WaitForSeconds(animator.GetCurrentAnimatorClipInfo(0).Length);
-        gameObject.SetActive(false);
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+        GM.CarregaCena(1, nivel);
 
     }
 

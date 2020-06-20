@@ -40,6 +40,7 @@ public class SelecionadorDeInimigos : MonoBehaviour
             
             if(TodosInimigosSelecionados()){
                 StartCoroutine(ataqueManager.FazendoAtaque(player, inimigosSelecionados));
+                LimpaSelecao();
             } else {
                 Debug.Log("Nem todos os inimigos foram selecionados, seu bobo >:^(");
             }

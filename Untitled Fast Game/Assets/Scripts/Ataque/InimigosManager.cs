@@ -6,17 +6,14 @@ public class InimigosManager : MonoBehaviour
 {
     List<GameObject> inimigos;
 
-
-    // Start is called before the first frame update
-    void Start()
+    public void AddInimigos()
     {
         inimigos = new List<GameObject>(GameObject.FindGameObjectsWithTag("Inimigo"));
     }
 
-    // Update is called once per frame
-    void Update()
+    public void LimpaLista()
     {
-        
+        inimigos.Clear();
     }
 
     //Dada uma posição, se houver um inimigo suficientemente próximo a esta posição, retorna este inimigo

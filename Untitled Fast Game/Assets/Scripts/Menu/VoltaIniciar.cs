@@ -4,10 +4,15 @@ using UnityEngine;
 
 public class VoltaIniciar : MonoBehaviour
 {
-    public Carregar carregaMenuIniciar;
+    GameManager GM;
+    private void Awake()
+    {
+        GM = GameManager.instance;
+    }
 
     public void VoltaProMenu()
     {
-        carregaMenuIniciar.CarregaNivel(0);
+        GM.Salvar();
+        GM.CarregaCena(GM.RetornaSave(), 1);
     }
 }

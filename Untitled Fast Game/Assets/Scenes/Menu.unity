@@ -121,18 +121,6 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
---- !u!114 &11722725 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 6895121899677857917, guid: b3d4ef8919561cf46a869cfc469f65b5,
-    type: 3}
-  m_PrefabInstance: {fileID: 6895121899687405464}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 67db9e8f0e2ae9c40bc1e2b64352a6b4, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &366435888
 GameObject:
   m_ObjectHideFlags: 0
@@ -286,7 +274,6 @@ GameObject:
   - component: {fileID: 408154551}
   - component: {fileID: 408154550}
   - component: {fileID: 408154549}
-  - component: {fileID: 408154548}
   m_Layer: 5
   m_Name: BotaoContinuar
   m_TagString: Untagged
@@ -314,25 +301,6 @@ RectTransform:
   m_AnchoredPosition: {x: 9.75, y: 44}
   m_SizeDelta: {x: 319.37448, y: 73.19786}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!95 &408154548
-Animator:
-  serializedVersion: 3
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 408154546}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: b30e013c81e636048ab98ea9ed64eecd, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!114 &408154549
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -582,18 +550,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 554999738}
   m_CullTransparentMesh: 0
---- !u!1 &558326190 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 6895121899129734710, guid: b3d4ef8919561cf46a869cfc469f65b5,
-    type: 3}
-  m_PrefabInstance: {fileID: 6895121899687405464}
-  m_PrefabAsset: {fileID: 0}
---- !u!224 &558326191 stripped
-RectTransform:
-  m_CorrespondingSourceObject: {fileID: 6895121899129734711, guid: b3d4ef8919561cf46a869cfc469f65b5,
-    type: 3}
-  m_PrefabInstance: {fileID: 6895121899687405464}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &677621206
 GameObject:
   m_ObjectHideFlags: 0
@@ -1001,7 +957,6 @@ GameObject:
   - component: {fileID: 795184047}
   - component: {fileID: 795184046}
   - component: {fileID: 795184045}
-  - component: {fileID: 795184048}
   m_Layer: 5
   m_Name: BotaoJogar
   m_TagString: Untagged
@@ -1078,7 +1033,7 @@ MonoBehaviour:
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 1
+          m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -1120,25 +1075,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 795184043}
   m_CullTransparentMesh: 0
---- !u!95 &795184048
-Animator:
-  serializedVersion: 3
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 795184043}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: b30e013c81e636048ab98ea9ed64eecd, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &806431304
 GameObject:
   m_ObjectHideFlags: 0
@@ -1551,7 +1487,7 @@ RectTransform:
   m_Children:
   - {fileID: 1432856120}
   - {fileID: 1605304329}
-  - {fileID: 558326191}
+  - {fileID: 6895121899687405465}
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -2759,12 +2695,12 @@ PrefabInstance:
         type: 3}
       propertyPath: telaLoading
       value: 
-      objectReference: {fileID: 558326190}
+      objectReference: {fileID: 0}
     - target: {fileID: 632150137554426986, guid: 935998b7eb643cc4e8eb13cc105e5862,
         type: 3}
       propertyPath: slider
       value: 
-      objectReference: {fileID: 11722725}
+      objectReference: {fileID: 0}
     - target: {fileID: 632150137554426987, guid: 935998b7eb643cc4e8eb13cc105e5862,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2939,5 +2875,26 @@ PrefabInstance:
       propertyPath: m_Pivot.y
       value: 0.5
       objectReference: {fileID: 0}
+    - target: {fileID: 7710576807104572234, guid: b3d4ef8919561cf46a869cfc469f65b5,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8150052394697281043, guid: b3d4ef8919561cf46a869cfc469f65b5,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8236641116901666650, guid: b3d4ef8919561cf46a869cfc469f65b5,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b3d4ef8919561cf46a869cfc469f65b5, type: 3}
+--- !u!224 &6895121899687405465 stripped
+RectTransform:
+  m_CorrespondingSourceObject: {fileID: 5764086442160887686, guid: b3d4ef8919561cf46a869cfc469f65b5,
+    type: 3}
+  m_PrefabInstance: {fileID: 6895121899687405464}
+  m_PrefabAsset: {fileID: 0}

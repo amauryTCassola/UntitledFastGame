@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Inimigo
   - Animador
+  - CamadaInimigo
   layers:
   - Default
   - TransparentFX

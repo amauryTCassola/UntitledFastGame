@@ -63,7 +63,5 @@ public class Cobra : MonoBehaviour, IInimigo
     {
         turnosAteAtivarPassiva --;
         //prompt só pra saber
-        if (turnosAteAtivarPassiva == 0)
-            Debug.Log("Cobra te comeu");
     }
 }
