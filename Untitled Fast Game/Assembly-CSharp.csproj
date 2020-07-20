@@ -69,6 +69,7 @@
     <Compile Include="Assets\Scripts\Ataque\InimigosManager.cs" />
     <Compile Include="Assets\Scripts\Ataque\NivelManager.cs" />
     <Compile Include="Assets\Scripts\Ataque\ProcessaAtaque.cs" />
+    <Compile Include="Assets\Scripts\Ataque\Respawn.cs" />
     <Compile Include="Assets\Scripts\Ataque\ResultadoDeAtaque.cs" />
     <Compile Include="Assets\Scripts\Ataque\SelecionadorDeInimigos.cs" />
     <Compile Include="Assets\Scripts\GameManager.cs" />
